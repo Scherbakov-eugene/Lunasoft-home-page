@@ -1,0 +1,381 @@
+# --------------------------------------------------------------------------------------------------
+# Слово SECTION в поле Description обозначает раздел.
+# Field names.
+# --------------------------------------------------------------------------------------------------
+7
+Description
+No drum kit - label
+No drum kit - link
+Medeli DD505(D) - label
+Medeli DD505(D) - link
+Alesis DM10 studio + Medeli DD505(D) - label
+Alesis DM10 studio + Medeli DD505(D) - link
+# --------------------------------------------------------------------------------------------------
+SECTION Tests
+
+
+
+
+
+
+# --------------------------------------------------------------------------------------------------
+Just a little double bass test
+N/A
+
+N/A
+
+2010.12.30
+https://www.youtube.com/watch?v=zKIKaidtYFA
+# --------------------------------------------------------------------------------------------------
+Polyrythm 2-3
+N/A
+
+N/A
+
+2011.10.28
+https://www.youtube.com/watch?v=p3SJDORuhEM
+# --------------------------------------------------------------------------------------------------
+SECTION Songs
+
+
+
+
+
+
+# --------------------------------------------------------------------------------------------------
+AC-DC - Shot down in flames
+N/A
+
+2010.09.12
+https://www.youtube.com/watch?v=8dwy804P-2Y
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Edguy - All the clowns
+N/A
+
+2010.09.05
+https://www.youtube.com/watch?v=wKTfz8bP4Tc
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Graveworm - I-the machine
+2010.06.05
+https://www.youtube.com/watch?v=4OlsAgC4G_g
+N/A
+
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Lacuna coil - Swamped
+N/A
+
+2010.08.15
+https://www.youtube.com/watch?v=0lOSIYoC0UQ
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Linkin park - Numb
+N/A
+
+2010.10.31
+https://www.youtube.com/watch?v=SxQ4sY5JANg
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Megadeth - Head crusher
+N/A
+
+N/A
+
+2012.08.18
+https://www.youtube.com/watch?v=wg5tZr9ZOyo
+# --------------------------------------------------------------------------------------------------
+Metallica - Cyanide
+N/A
+
+N/A
+
+2012.05.01
+https://www.youtube.com/watch?v=StFLG40aR5Y
+# --------------------------------------------------------------------------------------------------
+Metallica - Frantic
+N/A
+
+2010.10.23
+https://www.youtube.com/watch?v=FPJub-oQRf8
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Metallica - Fuel
+N/A
+
+2010.10.16
+https://www.youtube.com/watch?v=Tf1sUPY1mq0
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Metallica - Holier than thou
+2010.03.08
+https://www.youtube.com/watch?v=2JlagsaviW8
+N/A
+
+2011.10.29
+https://www.youtube.com/watch?v=_HtivcW0cpQ
+# --------------------------------------------------------------------------------------------------
+Metallica - Nothing else matters
+N/A
+
+2010.08.14
+https://www.youtube.com/watch?v=teELpm9C0yk
+2011.10.08 (Only drums)
+https://www.youtube.com/watch?v=KtkkNaUm4LA
+# --------------------------------------------------------------------------------------------------
+Metallica - Nothing else matters
+&nbsp;
+
+&nbsp;
+
+2011.10.09 (Only source)
+https://www.youtube.com/watch?v=yRoJ4qjwijM
+# --------------------------------------------------------------------------------------------------
+Metallica - Nothing else matters
+&nbsp;
+
+&nbsp;
+
+2011.10.09
+https://www.youtube.com/watch?v=3dDhZcTu7xE
+# --------------------------------------------------------------------------------------------------
+Metallica - Sad but true
+N/A
+
+2010.08.29
+https://www.youtube.com/watch?v=u7nXNPliAVs
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Metallica - Seek and destroy
+2010.03.20
+https://www.youtube.com/watch?v=jXAMEYZAr3g
+N/A
+
+2011.07.16
+https://www.youtube.com/watch?v=awaHeyR6NSo
+# --------------------------------------------------------------------------------------------------
+Metallica - Some kind of monster
+N/A
+
+2010.08.22
+https://www.youtube.com/watch?v=6OOuwzTY0-E
+2011.03.26
+https://www.youtube.com/watch?v=xO4WnrKntqw
+# --------------------------------------------------------------------------------------------------
+Metallica - St. anger
+2010.04.04
+https://www.youtube.com/watch?v=eY0stYK_7p4
+N/A
+
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Metallica - Through the never
+N/A
+
+2010.12.05
+https://www.youtube.com/watch?v=4RfbQIgtcJM
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Nightwish - Bless the child
+2010.03.08
+https://www.youtube.com/watch?v=afUBWFNopXI
+N/A
+
+2011.07.16
+https://www.youtube.com/watch?v=rT0Pn16_kDY
+# --------------------------------------------------------------------------------------------------
+Nightwish - Come cover me
+2010.06.05
+https://www.youtube.com/watch?v=0d0ULq6ayE0
+N/A
+
+2011.04.02
+https://www.youtube.com/watch?v=aRCFQwvEKg4
+# --------------------------------------------------------------------------------------------------
+Nightwish - Crownless
+2010.03.08
+https://www.youtube.com/watch?v=az29LfOkfqg
+N/A
+
+2011.01.23
+https://www.youtube.com/watch?v=DflAYzlrYo8
+# --------------------------------------------------------------------------------------------------
+Nightwish - Dead to the world
+2010.03.20
+https://www.youtube.com/watch?v=H-RSe_oT40Q
+N/A
+
+2011.02.19
+https://www.youtube.com/watch?v=BRI2QfrZVPg
+# --------------------------------------------------------------------------------------------------
+Nightwish - Deep silent complete
+2009.11.14
+https://www.youtube.com/watch?v=GQ3xrJQzybk
+N/A
+
+2011.02.26
+https://www.youtube.com/watch?v=5T8JhwRGq2A
+# --------------------------------------------------------------------------------------------------
+Nightwish - Elvenpath
+2009.11.14
+https://www.youtube.com/watch?v=P9xSfj0cE4o
+N/A
+
+2011.02.26
+https://www.youtube.com/watch?v=BnELC_V5N9c
+# --------------------------------------------------------------------------------------------------
+Nightwish - Over the hills and far away
+N/A
+
+2010.08.21
+https://www.youtube.com/watch?v=sm6b6Rk-yig
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Nightwish - Sacrament of wilderness
+2009.11.15
+https://www.youtube.com/watch?v=loqc6tWqG00
+N/A
+
+2012.03.31
+https://www.youtube.com/watch?v=nRS38BtZqyI
+# --------------------------------------------------------------------------------------------------
+Nightwish - Sleeping sun
+2010.06.05
+https://www.youtube.com/watch?v=waGJyyPeacI
+N/A
+
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Nightwish - The kinslayer
+2010.06.05
+https://www.youtube.com/watch?v=cAHrtV80Zl0
+N/A
+
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Nightwish - The kinslayer
+2010.06.12 (Percussion v1.1)
+https://www.youtube.com/watch?v=gcpfbmirZwc
+&nbsp;
+
+&nbsp;
+
+# --------------------------------------------------------------------------------------------------
+Nightwish - The Pharaoh sails to Orion
+2010.06.05
+https://www.youtube.com/watch?v=Scf6FpgBieE
+N/A
+
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Nightwish - Wanderlust
+2010.06.05
+https://www.youtube.com/watch?v=5rXLou9mVj4
+N/A
+
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Sonata arctica - Don't say a word
+2010.06.05
+https://www.youtube.com/watch?v=8f7lMOZ0N9g
+N/A
+
+2011.08.14
+https://www.youtube.com/watch?v=G0qh0Etotk8
+# --------------------------------------------------------------------------------------------------
+Sonata arctica - Flag in the ground
+N/A
+
+N/A
+
+2012.05.09
+https://www.youtube.com/watch?v=IugGIXH8rX4
+# --------------------------------------------------------------------------------------------------
+Sonata arctica - Misplaced
+N/A
+
+N/A
+
+2011.08.14
+https://www.youtube.com/watch?v=uo2G1nnUkac
+# --------------------------------------------------------------------------------------------------
+Sonata arctica - San Sebastian
+2010.03.20
+https://www.youtube.com/watch?v=IY3fJ9kVd6w
+N/A
+
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Sonata arctica - Victoria's secret
+N/A
+
+N/A
+
+2012.10.06
+https://www.youtube.com/watch?v=JKvdPwhrGTU
+# --------------------------------------------------------------------------------------------------
+Sonata arctica - Weballergy
+2009.11.08
+https://www.youtube.com/watch?v=lBj7YrPUnnM
+N/A
+
+2011.02.26
+https://www.youtube.com/watch?v=EwEC65-8rUc
+# --------------------------------------------------------------------------------------------------
+System of a down - Chop suey
+N/A
+
+2010.08.15
+https://www.youtube.com/watch?v=HH83dGvuHOE
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Thunderstone - Tools of the devil
+N/A
+
+2010.12.19
+https://www.youtube.com/watch?v=wnX5Siz1E9s
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Thyrfing - Wotan's fire
+N/A
+
+2010.11.05
+https://www.youtube.com/watch?v=kp65jy1tmA0
+N/A
+
+# --------------------------------------------------------------------------------------------------
+Within temptation - Where is the edge
+N/A
+
+N/A
+
+2012.05.06
+https://www.youtube.com/watch?v=1990TJdDYtw
+# --------------------------------------------------------------------------------------------------
+Мастер - Берегись
+N/A
+
+N/A
+
+2011.03.12
+https://www.youtube.com/watch?v=u4YHXiCorQw
+# --------------------------------------------------------------------------------------------------

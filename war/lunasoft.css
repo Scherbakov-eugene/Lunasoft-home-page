@@ -1,0 +1,30 @@
+
+/* MENU STYLE */
+
+.buttonOff a, .buttonOn a
+    {
+        border: 1px solid black;
+        display: block;
+        text-decoration: none;
+        color: #000000;
+        width: 135px;
+        height: 20px;
+        font-size: 12pt;
+        font-weight: bold;
+    }
+
+.buttonOff a:hover, .buttonOn a:hover
+    {
+        background-color: #80BEF1;
+        text-decoration: underline
+    }
+
+.buttonOff a
+    {
+        background-color: #BDDBF5;
+    }
+
+.buttonOn a
+    {
+        background-color: #80BEF1;
+    }

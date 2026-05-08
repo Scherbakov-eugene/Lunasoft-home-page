@@ -1,0 +1,1637 @@
+# --------------------------------------------------------------------------------------------------
+# Слово SECTION в поле Description обозначает раздел.
+# Field names.
+# --------------------------------------------------------------------------------------------------
+2
+Description
+URL
+# --------------------------------------------------------------------------------------------------
+ZZ top - Sharp dressed man (Crazy drummer)
+https://www.youtube.com/watch?v=6DVbt5W-DNc
+# --------------------------------------------------------------------------------------------------
+Les miserables - On my own (Vocal cover by Gaby Borges)
+https://www.youtube.com/watch?v=KizOwaOdrnE
+# --------------------------------------------------------------------------------------------------
+Laura Pausini - Viveme (Español) (Vocal cover by Gaby Borges)
+https://www.youtube.com/watch?v=BM_U_9YZY3k
+# --------------------------------------------------------------------------------------------------
+Ser of parecer - RBD (Vocal cover by Gaby Borges)
+https://www.youtube.com/watch?v=8uuqCj2sPSo
+# --------------------------------------------------------------------------------------------------
+Tiffany Anne - Ghost
+https://www.youtube.com/watch?v=fIcr1KYQsOg
+# --------------------------------------------------------------------------------------------------
+Games / PC / TES 4 - Oblivion - Последняя гастроль Билана
+https://www.youtube.com/watch?v=IGh2CH56yQs
+# --------------------------------------------------------------------------------------------------
+Metallica - Blackened (Guitar cover by Cissie) (Kirk Hammett solo included)
+https://www.youtube.com/watch?v=w2IRyXzDOsA
+# --------------------------------------------------------------------------------------------------
+Eloy Casagrande - Complete performance
+https://www.youtube.com/watch?v=1ysTZnl-O7I
+# --------------------------------------------------------------------------------------------------
+Games / PC / Modern war gear solid (Fanart, rus)
+https://www.youtube.com/watch?v=eadWRYtagrg
+# --------------------------------------------------------------------------------------------------
+Games / Humor / The rocket jump
+https://www.youtube.com/watch?v=7XzdZ4KcI8Y
+# --------------------------------------------------------------------------------------------------
+Dimmu borgir - ... (Krimh feat. cataclysmichael)
+https://www.youtube.com/watch?v=GegrZSwx4nA
+# --------------------------------------------------------------------------------------------------
+Other / HD 5850 first test
+https://www.youtube.com/watch?v=PQczWI893XQ
+# --------------------------------------------------------------------------------------------------
+Krimh - Drum jam 2010
+https://www.youtube.com/watch?v=XGAjnfFRtk4
+# --------------------------------------------------------------------------------------------------
+Games / Sega mega drive / Ultimate mortal kombat 3 - Kabal head glitch
+https://www.youtube.com/watch?v=_lWdtxW5SZ4
+# --------------------------------------------------------------------------------------------------
+Matthew McGhee - Reflections (Piano guitar duet)
+https://www.youtube.com/watch?v=xJVhhkCZl_0
+# --------------------------------------------------------------------------------------------------
+Mylène Farmer - C'est une belle journée
+https://www.youtube.com/watch?v=vnzagxJiBkY
+# --------------------------------------------------------------------------------------------------
+Mylène Farmer - Souviens-toi du jour
+https://www.youtube.com/watch?v=KCwN_J8mHsM
+# --------------------------------------------------------------------------------------------------
+Mylène Farmer - XXL (Lyrics)
+https://www.youtube.com/watch?v=HPxjFo9ot3s
+# --------------------------------------------------------------------------------------------------
+Epica - Seif al din
+https://www.youtube.com/watch?v=SgdGgTmG5ww
+# --------------------------------------------------------------------------------------------------
+Epica - Cry for the Moon
+https://www.youtube.com/watch?v=Dys1_TuUmI4
+# --------------------------------------------------------------------------------------------------
+Norther - Released
+https://www.youtube.com/watch?v=KazHr4TAIsU
+# --------------------------------------------------------------------------------------------------
+Sepultura - Territory
+https://www.youtube.com/watch?v=Q_WHGV5bejk
+# --------------------------------------------------------------------------------------------------
+Легион - Царица чёрных скал
+https://www.youtube.com/watch?v=gYn936rdyWE
+# --------------------------------------------------------------------------------------------------
+Мастер - Лабиринт
+https://www.youtube.com/watch?v=LEzUTNgwdkc
+# --------------------------------------------------------------------------------------------------
+Черный обелиск - Стена
+https://www.youtube.com/watch?v=y8MhhCJ6nEg
+# --------------------------------------------------------------------------------------------------
+Opeth - Master's apprentice (Lamentations)
+https://www.youtube.com/watch?v=LzDODSHcUa0
+# --------------------------------------------------------------------------------------------------
+Opeth - Deliverance (Part 1) (Lamentations)
+https://www.youtube.com/watch?v=xzAseCCBLZc
+# --------------------------------------------------------------------------------------------------
+Opeth - Deliverance (Part 2) (Lamentations)
+https://www.youtube.com/watch?v=PrYR670iuX0
+# --------------------------------------------------------------------------------------------------
+Epica - The obsessive devotion (Live)
+https://www.youtube.com/watch?v=dsM_D9I3Dpw
+# --------------------------------------------------------------------------------------------------
+Epica - The obsessive devotion (Blue bird theater, Denver, CO 22.02.2010)
+https://www.youtube.com/watch?v=fysbBxYlt7A
+# --------------------------------------------------------------------------------------------------
+Catharsis - Симфония огня (Верни им небо)
+https://www.youtube.com/watch?v=eIWPBvTJmKo
+# --------------------------------------------------------------------------------------------------
+Catharsis - Имаго (Верни им небо)
+https://www.youtube.com/watch?v=ipEdX2KaUco
+# --------------------------------------------------------------------------------------------------
+Megadeth - A tout le monde
+https://www.youtube.com/watch?v=Xn01nSG4cvU
+# --------------------------------------------------------------------------------------------------
+Оба-на. Угол шоу. AС/DС
+https://www.youtube.com/watch?v=JUHSuEU_Ouc
+# --------------------------------------------------------------------------------------------------
+Rage - Enough is enough (Invisible horizons, live 1993)
+https://www.youtube.com/watch?v=iea9OnpM1wo
+# --------------------------------------------------------------------------------------------------
+Rage - Enough is enough
+https://www.youtube.com/watch?v=60fqukuEbzY
+# --------------------------------------------------------------------------------------------------
+Dio - Wild one
+https://www.youtube.com/watch?v=8EIs--0vnJY
+# --------------------------------------------------------------------------------------------------
+Sugarland - Stuck like glue (Cover by Emily Seal and Sean Sonego)
+https://www.youtube.com/watch?v=m_Gd6O2vCyc
+# --------------------------------------------------------------------------------------------------
+Other / The most impossible song played on piano ever
+https://www.youtube.com/watch?v=0QsOcKmxWZI
+# --------------------------------------------------------------------------------------------------
+Other / Изготовление триодов в кустарных условиях
+https://www.youtube.com/watch?v=hlnEB2Gyl5A
+# --------------------------------------------------------------------------------------------------
+Other / LED cube 8x8x8 demo
+https://www.youtube.com/watch?v=6mXM-oGggrM
+# --------------------------------------------------------------------------------------------------
+UnSun - Whispers
+https://www.youtube.com/watch?v=LapknbGS7Os
+# --------------------------------------------------------------------------------------------------
+Within temptation - Sinéad
+https://www.youtube.com/watch?v=2GxU2JOkQsk
+# --------------------------------------------------------------------------------------------------
+Within temptation - Utopia
+https://www.youtube.com/watch?v=pgqDURxuZo0
+# --------------------------------------------------------------------------------------------------
+Within temptation - Faster
+https://www.youtube.com/watch?v=uy_UmgjXGk8
+# --------------------------------------------------------------------------------------------------
+Iron maiden - Holy smoke
+https://www.youtube.com/watch?v=3dzSEenqc3w
+# --------------------------------------------------------------------------------------------------
+Iron maiden - The wicker man
+https://www.youtube.com/watch?v=XZkAQoa1plM
+# --------------------------------------------------------------------------------------------------
+Iron maiden - Can I play with madness
+https://www.youtube.com/watch?v=ocFxQjPeyiY
+# --------------------------------------------------------------------------------------------------
+Iron maiden - From here to eternity
+https://www.youtube.com/watch?v=BwGuR711cwM
+# --------------------------------------------------------------------------------------------------
+Megadeth - Head crusher
+https://www.youtube.com/watch?v=JTMN6pqCMbw
+# --------------------------------------------------------------------------------------------------
+Satyricon - Fuel for hatred
+https://www.youtube.com/watch?v=pRK3jjeF2zI
+# --------------------------------------------------------------------------------------------------
+Satyricon - Black crow on a tombstone
+https://www.youtube.com/watch?v=mVxEGJskhsM
+# --------------------------------------------------------------------------------------------------
+Tristania - Libre
+https://www.youtube.com/watch?v=eATjfAz6j98
+# --------------------------------------------------------------------------------------------------
+Tristania - Equilibrium
+https://www.youtube.com/watch?v=rpPHx_Y2aTw
+# --------------------------------------------------------------------------------------------------
+Tristania - The wretched
+https://www.youtube.com/watch?v=pKXDCs_Bi8Y
+# --------------------------------------------------------------------------------------------------
+Ajattara - Hurmasta
+https://www.youtube.com/watch?v=RHWD924cUgI
+# --------------------------------------------------------------------------------------------------
+Sirenia - At sixes and sevens
+https://www.youtube.com/watch?v=4dJdWT2urzM
+# --------------------------------------------------------------------------------------------------
+Xandria - Ravenheart
+https://www.youtube.com/watch?v=6AoA6_99wiY
+# --------------------------------------------------------------------------------------------------
+Epica - Unleashed
+https://www.youtube.com/watch?v=eNGzltK_tlc
+# --------------------------------------------------------------------------------------------------
+Sonata arctica - Flag in the ground
+https://www.youtube.com/watch?v=kObI4XuTR2o
+# --------------------------------------------------------------------------------------------------
+Xandria - Back to the river
+https://www.youtube.com/watch?v=fcNl2IUeau4
+# --------------------------------------------------------------------------------------------------
+Xandria - Black flame
+https://www.youtube.com/watch?v=c4oOG4vmqBg
+# --------------------------------------------------------------------------------------------------
+Alizée - A contre-courant (Live, En concert, 2004)
+https://www.youtube.com/watch?v=zvI9LhKCOws
+# --------------------------------------------------------------------------------------------------
+Porcupine tree - Wedding nails
+https://www.youtube.com/watch?v=1WN3qWvV9Rg
+# --------------------------------------------------------------------------------------------------
+Triptykon - Shatter
+https://www.youtube.com/watch?v=xrRi25jZRFY
+# --------------------------------------------------------------------------------------------------
+Other / Dirt 3 - Ken Block's gymkhana
+https://www.youtube.com/watch?v=cshHp6v2qH0
+# --------------------------------------------------------------------------------------------------
+Tenacious D - Tribute
+https://www.youtube.com/watch?v=_lK4cX5xGiQ
+# --------------------------------------------------------------------------------------------------
+Mike Portnoy - The dance of eternity
+https://www.youtube.com/watch?v=DX_L3ziFSFw
+# --------------------------------------------------------------------------------------------------
+Mike Portnoy - Hell's kitchen
+https://www.youtube.com/watch?v=8xsXKqs3kiw
+# --------------------------------------------------------------------------------------------------
+Metallica - Ain't my bitch (Stuttgart, 97)
+https://www.youtube.com/watch?v=hMFKFBWhfxM
+# --------------------------------------------------------------------------------------------------
+Avril Lavigne - I'm with you
+https://www.youtube.com/watch?v=dGR65RWwzg8
+# --------------------------------------------------------------------------------------------------
+Eagle eye cherry - Save tonight
+https://www.youtube.com/watch?v=QYEd3_XaJ-4
+# --------------------------------------------------------------------------------------------------
+Metallica - Lars Ulrich and James Hetfield battling on the drums + Lars drum solo live in San Diego 1992
+https://www.youtube.com/watch?v=kXGVQ2wMG8A
+# --------------------------------------------------------------------------------------------------
+Blue man group - Up the roof (Feat. Tracy Bonham)
+https://www.youtube.com/watch?v=B1hOhWW4ZAE
+# --------------------------------------------------------------------------------------------------
+Budgie - Breadfan
+https://www.youtube.com/watch?v=54H3EUAzpVg
+# --------------------------------------------------------------------------------------------------
+Metallica - Breadfan (Live, 2009.09.29, Dallas, TX)
+https://www.youtube.com/watch?v=jz7x8Hk1D8M
+# --------------------------------------------------------------------------------------------------
+AC/DC - Rock'n'roll damnation
+https://www.youtube.com/watch?v=5qTtXdqd0ck
+# --------------------------------------------------------------------------------------------------
+AC/DC - Sin city (The midnight special)
+https://www.youtube.com/watch?v=cKSvc46QHjc
+# --------------------------------------------------------------------------------------------------
+Cyndi Wang - Honey (English translation)
+https://www.youtube.com/watch?v=MpJM-lkhsiM
+# --------------------------------------------------------------------------------------------------
+Metallica - Nothing else matters
+https://www.youtube.com/watch?v=Tj75Arhq5ho
+# --------------------------------------------------------------------------------------------------
+Avril Lavigne - Hot
+https://www.youtube.com/watch?v=fzb75m8NuMQ
+# --------------------------------------------------------------------------------------------------
+Avril Lavigne - Girlfriend
+https://www.youtube.com/watch?v=Bg59q4puhmg
+# --------------------------------------------------------------------------------------------------
+Mylène Farmer - Regrets
+https://www.youtube.com/watch?v=Gj1bnT6c5jE
+# --------------------------------------------------------------------------------------------------
+Metallica - Fuel
+https://www.youtube.com/watch?v=MDBLhdSy5t4
+# --------------------------------------------------------------------------------------------------
+Avril Lavigne - Fuel (Metallica cover)
+https://www.youtube.com/watch?v=x5FbiMBEK-0
+# --------------------------------------------------------------------------------------------------
+Games / PC / Portal - Still alive
+https://www.youtube.com/watch?v=Y6ljFaKRTrI
+# --------------------------------------------------------------------------------------------------
+Rihanna - Cheers (Drink to that)
+https://www.youtube.com/watch?v=ZR0v0i63PQ4
+# --------------------------------------------------------------------------------------------------
+Britney Spears - Lucky
+https://www.youtube.com/watch?v=4vvBAONkYwI
+# --------------------------------------------------------------------------------------------------
+Metallica - Battery (Live in Seattle, 1989)
+https://www.youtube.com/watch?v=8PT2TI3mXVw
+# --------------------------------------------------------------------------------------------------
+Dimmu borgir - The maelstrom mephisto
+https://www.youtube.com/watch?v=nIMUjj0jVZU
+# --------------------------------------------------------------------------------------------------
+Nightwish - Instrumental
+https://www.youtube.com/watch?v=HOtD-tUViHo
+# --------------------------------------------------------------------------------------------------
+Mylène Farmer - QI
+https://www.youtube.com/watch?v=onPtiil2Fe4
+# --------------------------------------------------------------------------------------------------
+Mylène Farmer - Appelle mon numéro
+https://www.youtube.com/watch?v=fdqn6JekZwc
+# --------------------------------------------------------------------------------------------------
+Megadeth - Use the man
+https://www.youtube.com/watch?v=gpW9MvgGXoU
+# --------------------------------------------------------------------------------------------------
+Opeth - Blackwater park
+https://www.youtube.com/watch?v=Cb9C1u8HsR8
+# --------------------------------------------------------------------------------------------------
+Opeth - Closure
+https://www.youtube.com/watch?v=UBZAUfMvZ50
+# --------------------------------------------------------------------------------------------------
+Satyricon - The scorn torrent
+https://www.youtube.com/watch?v=UKzpngkV5-g
+# --------------------------------------------------------------------------------------------------
+Шима - Ветрами
+https://www.youtube.com/watch?v=ZgyoOuGtutQ
+# --------------------------------------------------------------------------------------------------
+After forever - Digital deceit (Español)
+https://www.youtube.com/watch?v=N2RudMtVtz0
+# --------------------------------------------------------------------------------------------------
+After forever - Energize me
+https://www.youtube.com/watch?v=fjm4BrNAf6s
+# --------------------------------------------------------------------------------------------------
+Epica - Never enough
+https://www.youtube.com/watch?v=FfLtA8SkmVw
+# --------------------------------------------------------------------------------------------------
+Delain - April rain
+https://www.youtube.com/watch?v=g-X-9UNu3Nw
+# --------------------------------------------------------------------------------------------------
+Rhapsody - Rain of a thousand flames
+https://www.youtube.com/watch?v=Wi4Xi8kDcHw
+# --------------------------------------------------------------------------------------------------
+Реп про любовь
+https://www.youtube.com/watch?v=FzVWRq3biWM
+# --------------------------------------------------------------------------------------------------
+Кипелов - Не сейчас (V лет)
+https://www.youtube.com/watch?v=TKXjIi1OhgE
+# --------------------------------------------------------------------------------------------------
+Within temptation - Ice queen (Lyrics)
+https://www.youtube.com/watch?v=ZI2-KTuieHU
+# --------------------------------------------------------------------------------------------------
+Olga Romanova - The game
+https://www.youtube.com/watch?v=GvSAcQINLic
+# --------------------------------------------------------------------------------------------------
+Dimmu borgir - The serpentine offering
+https://www.youtube.com/watch?v=eAmMcBQavKE
+# --------------------------------------------------------------------------------------------------
+Games / Sega mega drive / Battletoads - Wind tunnel
+https://www.youtube.com/watch?v=idZ9C0Qtj2A
+# --------------------------------------------------------------------------------------------------
+Games / Sega mega drive / Landstalker - Green Maze in 4'48
+https://www.youtube.com/watch?v=aHiK_qQmuFQ
+# --------------------------------------------------------------------------------------------------
+Enigma - Gravity of love (Final fantasy IX)
+https://www.youtube.com/watch?v=F6kCWNV1bs4
+# --------------------------------------------------------------------------------------------------
+Epica - This is the time
+https://www.youtube.com/watch?v=UxHkjFBDnAI
+# --------------------------------------------------------------------------------------------------
+Apocalyptica - Somewhere around nothing
+https://www.youtube.com/watch?v=eM4qMuhEgeA
+# --------------------------------------------------------------------------------------------------
+Delain - Stay forever
+https://www.youtube.com/watch?v=yCfHZ3gprSk
+# --------------------------------------------------------------------------------------------------
+Bruce Dickinson - Tears of the dragon (Lyrics)
+https://www.youtube.com/watch?v=9lUJwR5UWvE
+# --------------------------------------------------------------------------------------------------
+Taylor Swift - You belong with me
+https://www.youtube.com/watch?v=VuNIsY6JdUw
+# --------------------------------------------------------------------------------------------------
+Leona Lewis - Run (Lyrics)
+https://www.youtube.com/watch?v=WBUmlrjOMO8
+# --------------------------------------------------------------------------------------------------
+MuteMath - Blood pressure (Drum cover by Johnkew)
+https://www.youtube.com/watch?v=DKOY4bYxNNg
+# --------------------------------------------------------------------------------------------------
+Taylor Swift - Mine
+https://www.youtube.com/watch?v=XPBwXKgDTdE
+# --------------------------------------------------------------------------------------------------
+Lacuna coil - Enjoy the silence (US version)
+https://www.youtube.com/watch?v=Lx58hXh4pVA
+# --------------------------------------------------------------------------------------------------
+Lacuna coil - Our truth
+https://www.youtube.com/watch?v=SB9LXpO6yWo
+# --------------------------------------------------------------------------------------------------
+Metallica - Turn the page
+https://www.youtube.com/watch?v=dOibtqWo6z4
+# --------------------------------------------------------------------------------------------------
+Enya - Only if
+https://www.youtube.com/watch?v=2C68nicab4s
+# --------------------------------------------------------------------------------------------------
+Timo Kotipelto - Sleep well
+https://www.youtube.com/watch?v=fjhfgWQ22hw
+# --------------------------------------------------------------------------------------------------
+Sepultura - Mind war
+https://www.youtube.com/watch?v=r3-3T_FiwDw
+# --------------------------------------------------------------------------------------------------
+Sepultura - Dead embryonic cells
+https://www.youtube.com/watch?v=c7Z8Ww1EmMk
+# --------------------------------------------------------------------------------------------------
+Candlemass - Bewitched
+https://www.youtube.com/watch?v=-3uvf0cn0jo
+# --------------------------------------------------------------------------------------------------
+Tarja Turunen - Until my last breath II
+https://www.youtube.com/watch?v=8gVN2Pj8kUI
+# --------------------------------------------------------------------------------------------------
+IndigosCinema - I want to set the world on fire!
+https://www.youtube.com/watch?v=1z01Fc9-bGU
+# --------------------------------------------------------------------------------------------------
+IndigosCinema - No more rules (Can you play this on your drums?)
+https://www.youtube.com/watch?v=vEdgtxeb1lU
+# --------------------------------------------------------------------------------------------------
+Csikos post - Isoline (Hermann Necke cover)
+https://www.youtube.com/watch?v=38OukTOumfo
+# --------------------------------------------------------------------------------------------------
+Bon Jovi - Keep the faith
+https://www.youtube.com/watch?v=eZQyVUTcpM4
+# --------------------------------------------------------------------------------------------------
+Céline Dion - Introduction / Love can move mountains
+https://www.youtube.com/watch?v=iudvkW7_b1c
+# --------------------------------------------------------------------------------------------------
+Serj Tankian - Improvisational noize
+https://www.youtube.com/watch?v=KE1qx077Nqk
+# --------------------------------------------------------------------------------------------------
+Serj Tankian - Charades
+https://www.youtube.com/watch?v=6owCFAbTiKM
+# --------------------------------------------------------------------------------------------------
+George Kollias - Aeons of burning galaxies
+https://www.youtube.com/watch?v=gXINemV8E_0
+# --------------------------------------------------------------------------------------------------
+George Kollias - Intense metal drumming
+https://www.youtube.com/watch?v=fwsdq2Zaofk
+# --------------------------------------------------------------------------------------------------
+Epica - Angel of dead
+https://www.youtube.com/watch?v=kj0ZqKYSgPQ
+# --------------------------------------------------------------------------------------------------
+Mylène Farmer - Interview FR2 12.12.2010
+https://www.youtube.com/watch?v=IbHo0QgurS4
+# --------------------------------------------------------------------------------------------------
+Mylène Farmer - Oui mais... non
+https://www.youtube.com/watch?v=fVb8dBQ7jKg
+# --------------------------------------------------------------------------------------------------
+Pantera - Revolution is my name
+https://www.youtube.com/watch?v=_XI1DD_vJuY
+# --------------------------------------------------------------------------------------------------
+Pantera - Mouth for war
+https://www.youtube.com/watch?v=a3JSbOt7CLo
+# --------------------------------------------------------------------------------------------------
+Pantera - 5 minutes alone
+https://www.youtube.com/watch?v=7m7njvwB-Ks
+# --------------------------------------------------------------------------------------------------
+Games / PC / GTA, not GTA
+https://www.youtube.com/watch?v=ePENfyid80w
+# --------------------------------------------------------------------------------------------------
+Delain - The gathering
+https://www.youtube.com/watch?v=_nExce26tXs
+# --------------------------------------------------------------------------------------------------
+Jim Carrey - What is love (A night at the roxbury)
+https://www.youtube.com/watch?v=SpwK3vFGJp0
+# --------------------------------------------------------------------------------------------------
+Games / PC / f33l - Quake3 Defrag Movie
+https://www.youtube.com/watch?v=-T6IAHWMd2I
+# --------------------------------------------------------------------------------------------------
+Rhapsody of fire - Unholy warcry
+https://www.youtube.com/watch?v=vyWfCaGcvdU
+# --------------------------------------------------------------------------------------------------
+Deep purple - Smoke on the water
+https://www.youtube.com/watch?v=tJx__B7vkFI
+# --------------------------------------------------------------------------------------------------
+Roxette - Listen to your heart
+https://www.youtube.com/watch?v=ktRsl2hAPhY
+# --------------------------------------------------------------------------------------------------
+Roxette - Church of your heart
+https://www.youtube.com/watch?v=25-FlwARl7o
+# --------------------------------------------------------------------------------------------------
+Ancient - God loves the dead
+https://www.youtube.com/watch?v=QYkK-osZUjI
+# --------------------------------------------------------------------------------------------------
+Mylène Farmer - L'Instant X
+https://www.youtube.com/watch?v=q5XuYVAi5r0
+# --------------------------------------------------------------------------------------------------
+Motörhead - Overkill (Live)
+https://www.youtube.com/watch?v=GlecTBevmzc
+# --------------------------------------------------------------------------------------------------
+Culture club - Karma chameleon
+https://www.youtube.com/watch?v=JmcA9LIIXWw
+# --------------------------------------------------------------------------------------------------
+The police - Every breath you take
+https://www.youtube.com/watch?v=OMOGaugKpzs
+# --------------------------------------------------------------------------------------------------
+Porcupine tree - Futile (Rockpalast)
+https://www.youtube.com/watch?v=57FouLEDS10
+# --------------------------------------------------------------------------------------------------
+Games / PC / 100.000.000 points in Chuzzle Deluxe
+https://www.youtube.com/watch?v=NpZxxMd59-0
+# --------------------------------------------------------------------------------------------------
+Avril Lavigne - Wish you were here
+https://www.youtube.com/watch?v=VT1-sitWRtY
+# --------------------------------------------------------------------------------------------------
+Pergamum band - Classical metal
+https://www.youtube.com/watch?v=YzOF9w8kG-c
+# --------------------------------------------------------------------------------------------------
+Other / Tameshiwari demo by shihan sjaak van de velde
+https://www.youtube.com/watch?v=isdfwpgpTBA
+# --------------------------------------------------------------------------------------------------
+Алсу - Иногда
+https://www.youtube.com/watch?v=ldi8yS0JktM
+# --------------------------------------------------------------------------------------------------
+Adam Gray juggling 3 sticks
+https://www.youtube.com/watch?v=k5T-WaIIogo
+# --------------------------------------------------------------------------------------------------
+Adam Gray - Texas in july (Having fun in the living room)
+https://www.youtube.com/watch?v=ToEXMrSTOEM
+# --------------------------------------------------------------------------------------------------
+Florence and the machine - Rabbit heart (Live, Abbey road, 2009)
+https://www.youtube.com/watch?v=PHNGW1F63mM
+# --------------------------------------------------------------------------------------------------
+Florence and the machine - Cosmic love (Live at Nobel peace prize concert, 2010)
+https://www.youtube.com/watch?v=IQVxZe8Vln0
+# --------------------------------------------------------------------------------------------------
+Fallulah - Give us a little love
+https://www.youtube.com/watch?v=Rt6hIh2wuJ0
+# --------------------------------------------------------------------------------------------------
+Tic tac toe - Isch liebe disch
+https://www.youtube.com/watch?v=BykAy4YboeU
+# --------------------------------------------------------------------------------------------------
+Thyrfing - From wilderness came death
+https://www.youtube.com/watch?v=8mp4RF8-phM
+# --------------------------------------------------------------------------------------------------
+Thyrfing - Draugs harg
+https://www.youtube.com/watch?v=LP1JEsBY94w
+# --------------------------------------------------------------------------------------------------
+Thyrfing - Tiden läker intet
+https://www.youtube.com/watch?v=Td0jFiuhSe4
+# --------------------------------------------------------------------------------------------------
+Thyrfing - Home again (Norway, 2009)
+https://www.youtube.com/watch?v=5ZvG_IWGzSY
+# --------------------------------------------------------------------------------------------------
+Thyrfing - Digerdöden
+https://www.youtube.com/watch?v=uh5TAEl9BtE
+# --------------------------------------------------------------------------------------------------
+Пуля - Если бы было так просто
+https://www.youtube.com/watch?v=UTqgecNk-ew
+# --------------------------------------------------------------------------------------------------
+Films / Major Payne - Man in the closet
+https://www.youtube.com/watch?v=L4MOGdPzzvY
+# --------------------------------------------------------------------------------------------------
+Amethista - Maniac
+https://www.youtube.com/watch?v=GWI4EkhR98I
+# --------------------------------------------------------------------------------------------------
+Amethista - Invisible queen
+https://www.youtube.com/watch?v=xcQK2wZoHfs
+# --------------------------------------------------------------------------------------------------
+Ajattara - Tahtomattaan syntynyt
+https://www.youtube.com/watch?v=Uw43dkcX_10
+# --------------------------------------------------------------------------------------------------
+Ajattara - Hirsipuulintu
+https://www.youtube.com/watch?v=ixxsMcfOJvY
+# --------------------------------------------------------------------------------------------------
+Liquid tension experiment - Acid rain (Live in L.A., 2008)
+https://www.youtube.com/watch?v=edqH0ofRQrM
+# --------------------------------------------------------------------------------------------------
+Metallica - Am I evil?
+https://www.youtube.com/watch?v=pB6Fa_pJqRQ
+# --------------------------------------------------------------------------------------------------
+Crazy town - Butterfly
+https://www.youtube.com/watch?v=6FEDrU85FLE
+# --------------------------------------------------------------------------------------------------
+Megadeth - Insomnia
+https://www.youtube.com/watch?v=R55Qxwwr9pw
+# --------------------------------------------------------------------------------------------------
+Nightwish - Wishmaster (Misheard lyrics)
+https://www.youtube.com/watch?v=gg5_mlQOsUQ
+# --------------------------------------------------------------------------------------------------
+Iron maiden - Fear of the dark (Misheard lyrics)
+https://www.youtube.com/watch?v=y4HVV8X5OKs
+# --------------------------------------------------------------------------------------------------
+Films / Terminator 2 - Nuclear nightmare
+https://www.youtube.com/watch?v=BR_midwZ2f0
+# --------------------------------------------------------------------------------------------------
+Opeth - By the pain I see in others
+https://www.youtube.com/watch?v=7mKkAHkriyw
+# --------------------------------------------------------------------------------------------------
+Mayhem - Crystalized pain in deconstruction (Only audio)
+https://www.youtube.com/watch?v=8jXmYatLMrE
+# --------------------------------------------------------------------------------------------------
+Pantera - Strength beyond strength (Lyrics)
+https://www.youtube.com/watch?v=S4sISnPhk-U
+# --------------------------------------------------------------------------------------------------
+Мастер - Дикие гуси
+https://www.youtube.com/watch?v=pnswRVRKPKU
+# --------------------------------------------------------------------------------------------------
+Мастер - Дайте свет
+https://www.youtube.com/watch?v=Bv-WQ9Qyhok
+# --------------------------------------------------------------------------------------------------
+Мастер - Не хотим
+https://www.youtube.com/watch?v=QAMW98cbPxo
+# --------------------------------------------------------------------------------------------------
+Черный кофе - Листья
+https://www.youtube.com/watch?v=D351EBTMTDg
+# --------------------------------------------------------------------------------------------------
+Леди осень...
+https://www.youtube.com/watch?v=WzqeIm2oyec
+# --------------------------------------------------------------------------------------------------
+Сергей Шестопалов - Желтоглазая осень
+https://www.youtube.com/watch?v=tZo9wa4ieNs
+# --------------------------------------------------------------------------------------------------
+Эмигрантский вальс!
+https://www.youtube.com/watch?v=9QUI1Qw-E9Y
+# --------------------------------------------------------------------------------------------------
+Satyricon - K.I.N.G
+https://www.youtube.com/watch?v=TV4qrlc8iTM
+# --------------------------------------------------------------------------------------------------
+Immortal - All shall fall
+https://www.youtube.com/watch?v=sOOebk_dKFo
+# --------------------------------------------------------------------------------------------------
+Vadrum - Classical drumming
+https://www.youtube.com/watch?v=CWki-Jac8H0
+# --------------------------------------------------------------------------------------------------
+Avril Lavigne - I love you
+https://www.youtube.com/watch?v=MDQk0IOSDHM
+# --------------------------------------------------------------------------------------------------
+Films / Man on fire (Trailer)
+https://www.youtube.com/watch?v=6s_-O4HglGI
+# --------------------------------------------------------------------------------------------------
+Films / Taken (Trailer)
+https://www.youtube.com/watch?v=wCbDUREBwUg
+# --------------------------------------------------------------------------------------------------
+Pantera - I'm broken
+https://www.youtube.com/watch?v=2-V8kYT1pvE
+# --------------------------------------------------------------------------------------------------
+Pantera - Psycho holiday
+https://www.youtube.com/watch?v=JTDj-I8LiXM
+# --------------------------------------------------------------------------------------------------
+The GAG quartet - Le internet medley (Over 40 memes in one song)
+https://www.youtube.com/watch?v=mghhLqu31cQ
+# --------------------------------------------------------------------------------------------------
+Hatebreed - Defeatist
+https://www.youtube.com/watch?v=JNN9On8aNAY
+# --------------------------------------------------------------------------------------------------
+Other / Reversal of the heart - Carolyn Chrisman senior thesis 2011
+https://www.youtube.com/watch?v=rHLwG3ioD4Y
+# --------------------------------------------------------------------------------------------------
+Other / Lost planet - Потерянная планета (2010) (www.vek21petrov.narod.ru)
+https://www.youtube.com/watch?v=ljvvHgb1h_4
+# --------------------------------------------------------------------------------------------------
+Red fang - Wires
+https://www.youtube.com/watch?v=WQPfQvLIseA
+# --------------------------------------------------------------------------------------------------
+Sonata arctica - Destruction preventer
+https://www.youtube.com/watch?v=9yeRlWd9YOQ
+# --------------------------------------------------------------------------------------------------
+Ancient wisdom - Universal annihilation
+https://www.youtube.com/watch?v=Hg4bHrPnxo8
+# --------------------------------------------------------------------------------------------------
+Games / Sega mega drive / Streets of rage 3 - Blaze (Round 1)
+https://www.youtube.com/watch?v=QL1wz39k3O0
+# --------------------------------------------------------------------------------------------------
+Games / Sega mega drive / WWF95 - Doink the clown (Road to wrestlemania)
+https://www.youtube.com/watch?v=a1V5JaivM8o
+# --------------------------------------------------------------------------------------------------
+Dimmu borgir - Unorthodox manifesto (Only audio, lyrics in description)
+https://www.youtube.com/watch?v=4kiaffAly_g
+# --------------------------------------------------------------------------------------------------
+Dimmu borgir - Unorthodox manifesto
+https://www.youtube.com/watch?v=9bN24QxP17s
+# --------------------------------------------------------------------------------------------------
+Dimmu borgir - Architecture of a genocidal nature
+https://www.youtube.com/watch?v=6v0CvqcA7do
+# --------------------------------------------------------------------------------------------------
+Other / Vegan black metal chef - Episode 1 - Pad thai
+https://www.youtube.com/watch?v=CeZlih4DDNg
+# --------------------------------------------------------------------------------------------------
+Melechesh - Deluge of delusional dreams
+https://www.youtube.com/watch?v=gwj3gFNqc4k
+# --------------------------------------------------------------------------------------------------
+Other / Arnold Schwarzenegger in Super contra (Speed run)
+https://www.youtube.com/watch?v=ASa1CaZ-R4w
+# --------------------------------------------------------------------------------------------------
+Other / 100 year old keeps sharp playing Nintendo DS
+https://www.youtube.com/watch?v=nawe7F8cZ_U
+# --------------------------------------------------------------------------------------------------
+Games / PC / Doom 2 - Walkthrough (Nightmare, 100% secrets)
+https://www.youtube.com/watch?v=uI0DC91r_9g
+# --------------------------------------------------------------------------------------------------
+Nightwish - The Pharaoh sails to Orion (Collaboration cover)
+https://www.youtube.com/watch?v=hUg0f4zlTS0
+# --------------------------------------------------------------------------------------------------
+Krypteria - Live to fight another day
+https://www.youtube.com/watch?v=nJMAOZc2Acs
+# --------------------------------------------------------------------------------------------------
+Krypteria - Die BVB (Meisterhymne, 2011)
+https://www.youtube.com/watch?v=IKv38Hu9K0w
+# --------------------------------------------------------------------------------------------------
+Krypteria - Canon rock
+https://www.youtube.com/watch?v=P9BXzCF96Xk
+# --------------------------------------------------------------------------------------------------
+Dream theater - Hell's kitchen (Drum cover by Mathias Biehl)
+https://www.youtube.com/watch?v=PMq1Qgn3Rpw
+# --------------------------------------------------------------------------------------------------
+UnSun - Home
+https://www.youtube.com/watch?v=2O2Aec2o-4w
+# --------------------------------------------------------------------------------------------------
+UnSun - Clinic for dolls (Lyrics)
+https://www.youtube.com/watch?v=SuOMYMicq7o
+# --------------------------------------------------------------------------------------------------
+UnSun - A single touch
+https://www.youtube.com/watch?v=ulQIXCSCJeo
+# --------------------------------------------------------------------------------------------------
+Кипелов - Матричный бог (V лет)
+https://www.youtube.com/watch?v=ma5S8HrJAOY
+# --------------------------------------------------------------------------------------------------
+Кипелов - Я здесь (Совместно с Тарьей Турунен, Самара)
+https://www.youtube.com/watch?v=1HZknsKz3cU
+# --------------------------------------------------------------------------------------------------
+Other / Дмитрий Пучков (Goblin) - News 4
+https://www.youtube.com/watch?v=Ff-WQL611P4
+# --------------------------------------------------------------------------------------------------
+Rhapsody of fire - Sea of fate
+https://www.youtube.com/watch?v=TunaJNTkc04
+# --------------------------------------------------------------------------------------------------
+Mortemia - The one I once was
+https://www.youtube.com/watch?v=O0yoxveh7Tg
+# --------------------------------------------------------------------------------------------------
+Eumeria - Rebel mind
+https://www.youtube.com/watch?v=27dDga7gDcw
+# --------------------------------------------------------------------------------------------------
+Games / PS3 / Heavy rain (Part 1 of 4)
+https://www.youtube.com/watch?v=bK9rZc6Kv6A
+# --------------------------------------------------------------------------------------------------
+Games / PS3 / Heavy rain (Part 2 of 4)
+https://www.youtube.com/watch?v=xCyvxjyMOWk
+# --------------------------------------------------------------------------------------------------
+Games / PS3 / Heavy rain (Part 3 of 4)
+https://www.youtube.com/watch?v=xjow3CWKPVQ
+# --------------------------------------------------------------------------------------------------
+Games / PS3 / Heavy rain (Part 4 of 4)
+https://www.youtube.com/watch?v=pWJdr5L08Ls
+# --------------------------------------------------------------------------------------------------
+Krypteria - Get the hell out of my way (2011)
+https://www.youtube.com/watch?v=huOuelgrx58
+# --------------------------------------------------------------------------------------------------
+UnSun - Studio report (Part 1) - Recording of second album
+https://www.youtube.com/watch?v=uZJ7Mh8l-As
+# --------------------------------------------------------------------------------------------------
+UnSun - Studio report (Part 2) - Recording of second album
+https://www.youtube.com/watch?v=rOxsrQ9K8QM
+# --------------------------------------------------------------------------------------------------
+Satyricon - The sign of the trident
+https://www.youtube.com/watch?v=9rWUi3P8TG4
+# --------------------------------------------------------------------------------------------------
+Lady pank - Mój świat bez ciebie
+https://www.youtube.com/watch?v=U5LLkehUa-c
+# --------------------------------------------------------------------------------------------------
+Iron maiden - Flight 666 (Concert)
+https://www.youtube.com/watch?v=UUGB7bYBlq8
+# --------------------------------------------------------------------------------------------------
+Therion - Live gothic (Concert)
+https://www.youtube.com/watch?v=x_0FdLPu-KY
+# --------------------------------------------------------------------------------------------------
+Megadeth - Whose life (is it anyways?) (Lyrics)
+https://www.youtube.com/watch?v=Gx_EV6u2MH0
+# --------------------------------------------------------------------------------------------------
+Ancient bards - To the master of darkness
+https://www.youtube.com/watch?v=KeszIVnvo6o
+# --------------------------------------------------------------------------------------------------
+Ancient bards - The birth of evil
+https://www.youtube.com/watch?v=KpvLMyC4a8o
+# --------------------------------------------------------------------------------------------------
+Massakren - Under cover of darkness
+https://www.youtube.com/watch?v=p2x_p2Yiffo
+# --------------------------------------------------------------------------------------------------
+Other / Mario theme song (Heavy metal version)
+https://www.youtube.com/watch?v=Mi6GoZsneJA
+# --------------------------------------------------------------------------------------------------
+Games / PC / Serious Sam - The second encounter - Jingle bell brawl
+https://www.youtube.com/watch?v=448iHJR3sYI
+# --------------------------------------------------------------------------------------------------
+Lacrimosa - Copycat
+https://www.youtube.com/watch?v=neu8611a790
+# --------------------------------------------------------------------------------------------------
+Lacrimosa - Lichtgestalt
+https://www.youtube.com/watch?v=8g0B6Qpnsjg
+# --------------------------------------------------------------------------------------------------
+Dekadent - Raided
+https://www.youtube.com/watch?v=2VFfuySQG2I
+# --------------------------------------------------------------------------------------------------
+Other / Android openGL nonsense
+https://www.youtube.com/watch?v=J4w9hXRrU5E
+# --------------------------------------------------------------------------------------------------
+In extremo - Die gier
+https://www.youtube.com/watch?v=C6c1Ck5HP2A
+# --------------------------------------------------------------------------------------------------
+Games / PC / Heavy metal FAKK 2 - Theme music original (Lyrics)
+https://www.youtube.com/watch?v=sS-47U32H3U
+# --------------------------------------------------------------------------------------------------
+Games / PC / The neverhood soundtrack - Operator plays a little ping pong
+https://www.youtube.com/watch?v=D6mBHUJWcPQ
+# --------------------------------------------------------------------------------------------------
+Games / PC / The neverhood soundtrack - Rock'n'roll dixie
+https://www.youtube.com/watch?v=hzhfqNHsm5o
+# --------------------------------------------------------------------------------------------------
+Games / PC / Unreal tournament 2000 - Mechanism eight
+https://www.youtube.com/watch?v=4_utgz7ezSk
+# --------------------------------------------------------------------------------------------------
+Games / PC / Unreal tournament 2000 - Razorback
+https://www.youtube.com/watch?v=PLgSo90JhAQ
+# --------------------------------------------------------------------------------------------------
+Games / PC / Unreal tournament 2000 - Go down
+https://www.youtube.com/watch?v=3otKIBNqciw
+# --------------------------------------------------------------------------------------------------
+Games / PS3 / Flower
+https://www.youtube.com/watch?v=z0ojwzeaXnk
+# --------------------------------------------------------------------------------------------------
+Metallica - And justice for all (Lyrics)
+https://www.youtube.com/watch?v=Fy6Rts3fBdQ
+# --------------------------------------------------------------------------------------------------
+Games / NES / Spy vs. spy
+https://www.youtube.com/watch?v=LJC7DIP5JIw
+# --------------------------------------------------------------------------------------------------
+Эпидемия - Эльфийская рукопись (Концерт)
+https://www.youtube.com/watch?v=1ZszDubKuho
+# --------------------------------------------------------------------------------------------------
+Pantera - Good friends and a bottle of pills
+https://www.youtube.com/watch?v=3w3NTA4csnA
+# --------------------------------------------------------------------------------------------------
+Sonata arctica - I have a right
+https://www.youtube.com/watch?v=sue_ufnvqcs
+# --------------------------------------------------------------------------------------------------
+Epica - Storm the sorrow
+https://www.youtube.com/watch?v=dNoTvg0t52c
+# --------------------------------------------------------------------------------------------------
+Hellyeah - You wouldn't know
+https://www.youtube.com/watch?v=FkbVHZB6TqY
+# --------------------------------------------------------------------------------------------------
+Nightwish - From wishes to eternity (Concert)
+https://www.youtube.com/watch?v=ndU507o_Uyw
+# --------------------------------------------------------------------------------------------------
+Mayhem - You must fall (Only audio)
+https://www.youtube.com/watch?v=GGIjLt7VnPM
+# --------------------------------------------------------------------------------------------------
+Edguy - Superheroes
+https://www.youtube.com/watch?v=ava-NU8TKis
+# --------------------------------------------------------------------------------------------------
+Games / PC / Grand theft auto V (Trailer)
+https://www.youtube.com/watch?v=QkkoHAzjnUs
+# --------------------------------------------------------------------------------------------------
+Games / PC / The elder scrolls VI - Equestria
+https://www.youtube.com/watch?v=egrlzkKa6O8
+# --------------------------------------------------------------------------------------------------
+Metallica - Frantic
+https://www.youtube.com/watch?v=WKYLCAHQWEI
+# --------------------------------------------------------------------------------------------------
+Games / PS3 / God of war 3 (Part 4 of 4)
+https://www.youtube.com/watch?v=ZpdKGqN-9kg
+# --------------------------------------------------------------------------------------------------
+Games / PS3 / God of war 3 (Part 3 of 4)
+https://www.youtube.com/watch?v=RhDpM8_XBjE
+# --------------------------------------------------------------------------------------------------
+Games / PS3 / God of war 3 (Part 2 of 4)
+https://www.youtube.com/watch?v=oumi9b3Dl94
+# --------------------------------------------------------------------------------------------------
+Games / PS3 / God of war 3 (Part 1 of 4)
+https://www.youtube.com/watch?v=uRVunaxSi9E
+# --------------------------------------------------------------------------------------------------
+Loudness - Crazy nights
+https://www.youtube.com/watch?v=5Oi7etAy_mA
+# --------------------------------------------------------------------------------------------------
+Other / 6 кадров - Выпуск 63 (18.06.12)
+https://www.youtube.com/watch?v=KQouj-M4OFU
+# --------------------------------------------------------------------------------------------------
+Sepultura - Sepulnation
+https://www.youtube.com/watch?v=IiMqW-i8bl8
+# --------------------------------------------------------------------------------------------------
+Rihanna - Umbrella (Orange version, feat. JAY-Z)
+https://www.youtube.com/watch?v=CvBfHwUxHIk
+# --------------------------------------------------------------------------------------------------
+Madonna - Don't tell me (Canal+ TV show, 2000)
+https://www.youtube.com/watch?v=ItKrwgpWyxU
+# --------------------------------------------------------------------------------------------------
+Madonna - Rain
+https://www.youtube.com/watch?v=15kWlTrpt5k
+# --------------------------------------------------------------------------------------------------
+UnSun - The lost way
+https://www.youtube.com/watch?v=-Yo5dWa4rNM
+# --------------------------------------------------------------------------------------------------
+Delain - Virtue and vice (Lyrics)
+https://www.youtube.com/watch?v=44ECLV_WQkM
+# --------------------------------------------------------------------------------------------------
+Alcest - Autre temps
+https://www.youtube.com/watch?v=85c-P9hbmBg
+# --------------------------------------------------------------------------------------------------
+Alcest - Ciel errant
+https://www.youtube.com/watch?v=KjQQgRGWTgI
+# --------------------------------------------------------------------------------------------------
+Alcest - Beings of light (2012)
+https://www.youtube.com/watch?v=jG54mY4yziI
+# --------------------------------------------------------------------------------------------------
+Céline Dion - You shook me all night long (Feat. Anastacia)
+https://www.youtube.com/watch?v=1niTEkP-6eo
+# --------------------------------------------------------------------------------------------------
+AC/DC - Hells bells
+https://www.youtube.com/watch?v=hlHf5B49jAI
+# --------------------------------------------------------------------------------------------------
+Enya - Wild child
+https://www.youtube.com/watch?v=_wM7A6Eht7s
+# --------------------------------------------------------------------------------------------------
+Dimmu borgir - Sorgens kammer del II
+https://www.youtube.com/watch?v=3OOiJ2GkoEI
+# --------------------------------------------------------------------------------------------------
+Dark suns - The chameleon conflict
+https://www.youtube.com/watch?v=lhX-jDPifiw
+# --------------------------------------------------------------------------------------------------
+Alice Cooper - Poison
+https://www.youtube.com/watch?v=Qq4j1LtCdww
+# --------------------------------------------------------------------------------------------------
+Tarja Turunen - Poison
+https://www.youtube.com/watch?v=kLq7ePSqFu4
+# --------------------------------------------------------------------------------------------------
+Dokken - Almost over (New single 2009, new album 2010) (Slide show)
+https://www.youtube.com/watch?v=bMhFmsx1z3U
+# --------------------------------------------------------------------------------------------------
+Films / Drive (1998) - Mark Dacascos
+https://www.youtube.com/watch?v=eStmobszFi0
+# --------------------------------------------------------------------------------------------------
+AC/DC - Let there be rock
+https://www.youtube.com/watch?v=MqcO8aWrfA8
+# --------------------------------------------------------------------------------------------------
+Warrior soul - Fuck the pigs
+https://www.youtube.com/watch?v=wTEsNLSiK6Y
+# --------------------------------------------------------------------------------------------------
+Warrior soul - Love destruction
+https://www.youtube.com/watch?v=iT1muWE8RzA
+# --------------------------------------------------------------------------------------------------
+Tony MacAlpine - Dream mechanism 
+https://www.youtube.com/watch?v=FZEXQ3tbuRQ
+# --------------------------------------------------------------------------------------------------
+Yngwie Malmsteen - Evil eye (GTA 2, total destruction)
+https://www.youtube.com/watch?v=yGBAPr8kFeE
+# --------------------------------------------------------------------------------------------------
+Marty Friedman - Bad D.N.A.
+https://www.youtube.com/watch?v=9GjubA5Klyo
+# --------------------------------------------------------------------------------------------------
+Marty Friedman - Salt in the wound
+https://www.youtube.com/watch?v=Mq6mXYLX_Vw
+# --------------------------------------------------------------------------------------------------
+Cain's Offering - My queen of winter (Lyrics)
+https://www.youtube.com/watch?v=w1s8zvFUbfI
+# --------------------------------------------------------------------------------------------------
+Christina Perri - Jar of hearts (Cover by Madi)
+https://www.youtube.com/watch?v=6-Txq9w-0G4
+# --------------------------------------------------------------------------------------------------
+Altaria - Falling again
+https://www.youtube.com/watch?v=oGkXA1ZOVNc
+# --------------------------------------------------------------------------------------------------
+Mortal love -  Empathy
+https://www.youtube.com/watch?v=-L4_cMK9Kuo
+# --------------------------------------------------------------------------------------------------
+Mortal love - Existence (Only audio)
+https://www.youtube.com/watch?v=duRNu5a4Ehw
+# --------------------------------------------------------------------------------------------------
+Motörhead - Iron fist
+https://www.youtube.com/watch?v=_FBe9l_A3vo
+# --------------------------------------------------------------------------------------------------
+Saxon - Hammer of the gods
+https://www.youtube.com/watch?v=_pRY63Lny0Q
+# --------------------------------------------------------------------------------------------------
+Saxon - Hungry years
+https://www.youtube.com/watch?v=h1yxE2P0FBw
+# --------------------------------------------------------------------------------------------------
+Saxon - Altar of the gods (1991)
+https://www.youtube.com/watch?v=37kHeDrZv8Y
+# --------------------------------------------------------------------------------------------------
+Saxon - Stand up and be counted
+https://www.youtube.com/watch?v=HYbKsUlNAfM
+# --------------------------------------------------------------------------------------------------
+Saxon - Out of control
+https://www.youtube.com/watch?v=9rvpiPRo8Mk
+# --------------------------------------------------------------------------------------------------
+Saxon - Ministry of fools
+https://www.youtube.com/watch?v=EOSYrRYezP0
+# --------------------------------------------------------------------------------------------------
+Thin lizzy - Whiskey in the Jar (Lyrics)
+https://www.youtube.com/watch?v=JK_d8WfNyfA
+# --------------------------------------------------------------------------------------------------
+Thin lizzy - Cold sweat
+https://www.youtube.com/watch?v=CSb2x-PmSM4
+# --------------------------------------------------------------------------------------------------
+Iron maiden - Hooks in you (Only audio)
+https://www.youtube.com/watch?v=XQRSeBoJF-Q
+# --------------------------------------------------------------------------------------------------
+Fu manchu - Hung out to dry
+https://www.youtube.com/watch?v=b_b-8iDBrW0
+# --------------------------------------------------------------------------------------------------
+Karma to burn - Thirty four (Song clip)
+https://www.youtube.com/watch?v=xkNdi8SV_uA
+# --------------------------------------------------------------------------------------------------
+Warlock - Without you
+https://www.youtube.com/watch?v=B_xEK2hRdSg
+# --------------------------------------------------------------------------------------------------
+Warlock - Catch my heart
+https://www.youtube.com/watch?v=h91YWITPk6g
+# --------------------------------------------------------------------------------------------------
+Warlock - Speed of sound
+https://www.youtube.com/watch?v=HX6C6lgNbKA
+# --------------------------------------------------------------------------------------------------
+Warlock - East meets west
+https://www.youtube.com/watch?v=MbFBNMdFd1g
+# --------------------------------------------------------------------------------------------------
+Britny Fox - Standing in the shadows
+https://www.youtube.com/watch?v=gQ9WgQ-R12Q
+# --------------------------------------------------------------------------------------------------
+Britny Fox - Rock revolution
+https://www.youtube.com/watch?v=Rzr2xXAZzDQ
+# --------------------------------------------------------------------------------------------------
+Britny Fox - Closer to your love
+https://www.youtube.com/watch?v=pb5GfbGAiC8
+# --------------------------------------------------------------------------------------------------
+Britny Fox - Pain
+https://www.youtube.com/watch?v=3WUkQkv-ylE
+# --------------------------------------------------------------------------------------------------
+Coldplay - The scientist
+https://www.youtube.com/watch?v=RB-RcX5DS5A
+# --------------------------------------------------------------------------------------------------
+Girlschool - Kick it down
+https://www.youtube.com/watch?v=mEs001ZrQLU
+# --------------------------------------------------------------------------------------------------
+Girlschool - Don't mess around
+https://www.youtube.com/watch?v=D8jA9Jl-604
+# --------------------------------------------------------------------------------------------------
+Girlschool - Demolition boys (Live rehearsal, 1980)
+https://www.youtube.com/watch?v=S6TOZep2nOU
+# --------------------------------------------------------------------------------------------------
+Girlschool - Take it all away (Live BYH festival, 2007)
+https://www.youtube.com/watch?v=9DpxJLMZatQ
+# --------------------------------------------------------------------------------------------------
+Fear of god - Burnt
+https://www.youtube.com/watch?v=VelmZ3fZIYQ
+# --------------------------------------------------------------------------------------------------
+Fear of god - Mercy (Chris' song)
+https://www.youtube.com/watch?v=KEJq2nrQbMU
+# --------------------------------------------------------------------------------------------------
+Phantom blue - Time to run (Lyrics)
+https://www.youtube.com/watch?v=liCeSukCnnc
+# --------------------------------------------------------------------------------------------------
+Vixen - Highway to heartache (Rare 1990 omitted Track)
+https://www.youtube.com/watch?v=cO1C9M63bQE
+# --------------------------------------------------------------------------------------------------
+Vixen - Love made me
+https://www.youtube.com/watch?v=nMDoB0fO9Fg
+# --------------------------------------------------------------------------------------------------
+Vixen - Give me away
+https://www.youtube.com/watch?v=QCoM1G_oGtQ
+# --------------------------------------------------------------------------------------------------
+Metallica - Killing time
+https://www.youtube.com/watch?v=8ODX4EFZK5U
+# --------------------------------------------------------------------------------------------------
+Amberian dawn - He sleeps in a grove
+https://www.youtube.com/watch?v=-IrlUb2QSIo
+# --------------------------------------------------------------------------------------------------
+Amberian dawn - Dreamchaser
+https://www.youtube.com/watch?v=dBqhCHW1tXs
+# --------------------------------------------------------------------------------------------------
+Amberian dawn - Field of serpents
+https://www.youtube.com/watch?v=zNJ6rT1pa7Y
+# --------------------------------------------------------------------------------------------------
+Tik tak - Satuprinsessa
+https://www.youtube.com/watch?v=eEkFWyMNxBk
+# --------------------------------------------------------------------------------------------------
+Tik tak - Kuka vaan
+https://www.youtube.com/watch?v=04TTFI6rJds
+# --------------------------------------------------------------------------------------------------
+Xandria - Fire of universe
+https://www.youtube.com/watch?v=Uki1PcSd0FM
+# --------------------------------------------------------------------------------------------------
+Xandria - Sleeping dogs lie
+https://www.youtube.com/watch?v=SGlkVSU8_oM
+# --------------------------------------------------------------------------------------------------
+Xandria - Firestorm
+https://www.youtube.com/watch?v=ognZCe0c5fg
+# --------------------------------------------------------------------------------------------------
+Van canto - Battery
+https://www.youtube.com/watch?v=BEwNrjvNiYs
+# --------------------------------------------------------------------------------------------------
+Van canto - Wishmaster
+https://www.youtube.com/watch?v=XCGQiGEYl4Y
+# --------------------------------------------------------------------------------------------------
+Games / PC / Machinarium
+https://www.youtube.com/watch?v=k0H1C8mD5o0
+# --------------------------------------------------------------------------------------------------
+Games / Sega mega drive / Comix zone
+https://www.youtube.com/watch?v=WLSaP5NRFG0
+# --------------------------------------------------------------------------------------------------
+Onslaught - Bomber (2010)
+https://www.youtube.com/watch?v=02KelULU8tU
+# --------------------------------------------------------------------------------------------------
+Onslaught - The sound of violence (2011)
+https://www.youtube.com/watch?v=duUULTUwTT0
+# --------------------------------------------------------------------------------------------------
+Metallica - Sweet amber (Live in studio)
+https://www.youtube.com/watch?v=ntdy4UjKJZI
+# --------------------------------------------------------------------------------------------------
+Witchking - Metal grail
+https://www.youtube.com/watch?v=oEGFPYymWtY
+# --------------------------------------------------------------------------------------------------
+Lacuna coil - I like it
+https://www.youtube.com/watch?v=DaN_nEVKWCI
+# --------------------------------------------------------------------------------------------------
+Xenesthis - Reflections
+https://www.youtube.com/watch?v=QdHYFI8BPKE
+# --------------------------------------------------------------------------------------------------
+Other / Heavy Metal Cats! Key of Awesome #1
+https://www.youtube.com/watch?v=AAfpq6EPKck
+# --------------------------------------------------------------------------------------------------
+Films / Requiem for a dream (Lux Aeterna) meets metal
+https://www.youtube.com/watch?v=Exsu5a-rvz0
+# --------------------------------------------------------------------------------------------------
+Babymetal - ド・キ・ド・キ☆モーニング [Doki Doki ☆ Morning] (Edit ver.)
+https://www.youtube.com/watch?v=4QbAXXXOJF8
+# --------------------------------------------------------------------------------------------------
+でんぱ組.inc - くちづけキボンヌ＠FM-FUJI GIRLS❤GIRLS❤GIRLS 「4th Kiss!!!!」
+https://www.youtube.com/watch?v=JyNhNW1dd7Q
+# --------------------------------------------------------------------------------------------------
+Han-kun - Joyful days MV （Short ver.）
+https://www.youtube.com/watch?v=l4T3C9HWyxY
+# --------------------------------------------------------------------------------------------------
+Tenacious D - The metal (Lyrics)
+https://www.youtube.com/watch?v=vJ3emd3phLY
+# --------------------------------------------------------------------------------------------------
+Setanera - Spettralia
+https://www.youtube.com/watch?v=fdmbpcIlQuA
+# --------------------------------------------------------------------------------------------------
+Setanera - Black river
+https://www.youtube.com/watch?v=8G2aCNGMqlY
+# --------------------------------------------------------------------------------------------------
+Pythia - Sarah (Bury her)
+https://www.youtube.com/watch?v=G-AaY00F6UI
+# --------------------------------------------------------------------------------------------------
+Tarja Turunen - Tired of being alone (Lyrics)
+https://www.youtube.com/watch?v=4LWrYvL3I7w
+# --------------------------------------------------------------------------------------------------
+Todesbonden - Surrender to the sea
+https://www.youtube.com/watch?v=7PTcSokw6w4
+# --------------------------------------------------------------------------------------------------
+Other / www.engvid.com / English slang - Text messaging: LOL WTF BRB and more!
+https://www.youtube.com/watch?v=VhWUcRaMJwI
+# --------------------------------------------------------------------------------------------------
+Dimmu borgir - Forces of the northern night (Live at spektrum, Oslo 2011 (Concert)
+https://www.youtube.com/watch?v=-YC4WJcvd7Y
+# --------------------------------------------------------------------------------------------------
+Within temptation - Black symphony (Concert)
+https://www.youtube.com/watch?v=dlBSmAS_YxE
+# --------------------------------------------------------------------------------------------------
+Games / ZX spectrum - Starquake
+https://www.youtube.com/watch?v=57kOys6xzbk
+# --------------------------------------------------------------------------------------------------
+Unisonic - Unisonic
+https://www.youtube.com/watch?v=w0vuM-btEWc
+# --------------------------------------------------------------------------------------------------
+Silent wings - Into the void (Emotional winter)
+https://www.youtube.com/watch?v=qcRmSkkkwAQ
+# --------------------------------------------------------------------------------------------------
+Games / ZX spectrum - Top cat in Beverly Hills
+https://www.youtube.com/watch?v=iUvn8fwYG7o
+# --------------------------------------------------------------------------------------------------
+Xandria - Save my life
+https://www.youtube.com/watch?v=gMScF4nhiQU
+# --------------------------------------------------------------------------------------------------
+Xandria - Eversleeping
+https://www.youtube.com/watch?v=TAV0kNIB9lA
+# --------------------------------------------------------------------------------------------------
+Pantera - Message in blood (Lyrics)
+https://www.youtube.com/watch?v=M7vgYGLLSGo
+# --------------------------------------------------------------------------------------------------
+Sonata arctica - Shitload of money
+https://www.youtube.com/watch?v=pQY3jalQSk4
+# --------------------------------------------------------------------------------------------------
+Metallica - The thing that should not be (Lyrics)
+https://www.youtube.com/watch?v=2pnS_7YsYzM
+# --------------------------------------------------------------------------------------------------
+The sins of thy beloved  - The thing that should not be (Metallica cover)
+https://www.youtube.com/watch?v=z6z3i244RoM
+# --------------------------------------------------------------------------------------------------
+Sepultura - Convicted in life
+https://www.youtube.com/watch?v=_hUM2YH41jE
+# --------------------------------------------------------------------------------------------------
+Massakren - Threshold
+https://www.youtube.com/watch?v=mxJqMFL4PPk
+# --------------------------------------------------------------------------------------------------
+Delain - Get the devil out of me
+https://www.youtube.com/watch?v=jaATQzLr_20
+# --------------------------------------------------------------------------------------------------
+Delain - We are the others
+https://www.youtube.com/watch?v=5lZGhh41W9k
+# --------------------------------------------------------------------------------------------------
+Battle beast - Enter the metal world
+https://www.youtube.com/watch?v=nxL99TbCD4M
+# --------------------------------------------------------------------------------------------------
+Rhapsody of fire - Trolls in the dark (Cover by Cinthya blackcat)
+https://www.youtube.com/watch?v=2pi1QfW_K-o
+# --------------------------------------------------------------------------------------------------
+Arch enemy - My apocalypse
+https://www.youtube.com/watch?v=z9V4qKMONfc
+# --------------------------------------------------------------------------------------------------
+Bloom - Cause of pain - Photosynthesis
+https://www.youtube.com/watch?v=gwFYCpyWym4
+# --------------------------------------------------------------------------------------------------
+Encircle - The escape (Only audio)
+https://www.youtube.com/watch?v=WrGgZHK-1c8
+# --------------------------------------------------------------------------------------------------
+Freedom call - Hero on video
+https://www.youtube.com/watch?v=HnuZES0fqPo
+# --------------------------------------------------------------------------------------------------
+Games / PS3 / Braid
+https://www.youtube.com/watch?v=NdUyHi1i2h0
+# --------------------------------------------------------------------------------------------------
+Other / Как умножают Японцы?
+https://www.youtube.com/watch?v=FPTFHgaelUY
+# --------------------------------------------------------------------------------------------------
+Mayhem - A time to die (Only audio)
+https://www.youtube.com/watch?v=rep04quuOm0
+# --------------------------------------------------------------------------------------------------
+Helix Snake's top 50 favorite Skate 3 clips
+https://www.youtube.com/watch?v=UaUR6u8nHoM
+# --------------------------------------------------------------------------------------------------
+Doro Pesch -  Bad blood
+https://www.youtube.com/watch?v=c3RXxg453aQ
+# --------------------------------------------------------------------------------------------------
+Doro Pesch - Hard times (1989)
+https://www.youtube.com/watch?v=abuUAqqoXRE
+# --------------------------------------------------------------------------------------------------
+Doro Pesch - Always live to win
+https://www.youtube.com/watch?v=HaYDgr1I2BY
+# --------------------------------------------------------------------------------------------------
+Dokken - It's not love
+https://www.youtube.com/watch?v=J2sxyBMHtMM
+# --------------------------------------------------------------------------------------------------
+Vixen - Edge of a broken heart
+https://www.youtube.com/watch?v=mQOmDUnt8Hs
+# --------------------------------------------------------------------------------------------------
+Dokken - Young girls (Only audio)
+https://www.youtube.com/watch?v=JBwDbWf3Qmo
+# --------------------------------------------------------------------------------------------------
+Dokken - Mr. scary (Only audio)
+https://www.youtube.com/watch?v=XkVW1pHs0LY
+# --------------------------------------------------------------------------------------------------
+Vixen - Bad reputation (Live)
+https://www.youtube.com/watch?v=zJ5ICNckL9o
+# --------------------------------------------------------------------------------------------------
+Opeth - Circle of the tyrant (Celtic frost cover)
+https://www.youtube.com/watch?v=ouwiGA9ykS4
+# --------------------------------------------------------------------------------------------------
+Opeth - Derelict herds (Wathershed special edition)
+https://www.youtube.com/watch?v=luTcB1zaf6A
+# --------------------------------------------------------------------------------------------------
+Opeth - Heir apparent
+https://www.youtube.com/watch?v=8t-2_G9iyRA
+# --------------------------------------------------------------------------------------------------
+Opeth - Burden
+https://www.youtube.com/watch?v=FBS7ejV9qEk
+# --------------------------------------------------------------------------------------------------
+Opeth - Pyre (Live)
+https://www.youtube.com/watch?v=poDyUsQj2wc
+# --------------------------------------------------------------------------------------------------
+ReinXeed - We must go faster
+https://www.youtube.com/watch?v=SSpw-yN4_hc
+# --------------------------------------------------------------------------------------------------
+Elin Gårdestig - Du är så god mot mig
+https://www.youtube.com/watch?v=7P5Zyh7Mo54
+# --------------------------------------------------------------------------------------------------
+Мастер-класс от Игоря Угольникова (МГУ, 2012)
+https://www.youtube.com/watch?v=oi9vZZ-SVV0
+# --------------------------------------------------------------------------------------------------
+Nightwish - Last of the wilds
+https://www.youtube.com/watch?v=vouAtmE13vs
+# --------------------------------------------------------------------------------------------------
+Onslaught - Suicideology
+https://www.youtube.com/watch?v=wmqMsdPb2Wk
+# --------------------------------------------------------------------------------------------------
+Dokken - Burning like a flame
+https://www.youtube.com/watch?v=MzwVUk_PYxk
+# --------------------------------------------------------------------------------------------------
+Dokken - Heaven sent
+https://www.youtube.com/watch?v=Y2rOT3TXzzg
+# --------------------------------------------------------------------------------------------------
+Doro Pesch - Raise your fist in the air
+https://www.youtube.com/watch?v=XGFa_xddMJQ
+# --------------------------------------------------------------------------------------------------
+Megadeth - Breadline
+https://www.youtube.com/watch?v=IRXdBPNlSqY
+# --------------------------------------------------------------------------------------------------
+Saxon - I've got to rock (To stay alive)
+https://www.youtube.com/watch?v=K3Qflu83RkY
+# --------------------------------------------------------------------------------------------------
+Van Halen - Hear about it later
+https://www.youtube.com/watch?v=eeTVQp8Z6rA
+# --------------------------------------------------------------------------------------------------
+Van Halen - Unchained
+https://www.youtube.com/watch?v=xx86CxKYtg0
+# --------------------------------------------------------------------------------------------------
+Visions of atlantis - Lost
+https://www.youtube.com/watch?v=Npe-KvYgg6s
+# --------------------------------------------------------------------------------------------------
+Visions of atlantis - New dawn
+https://www.youtube.com/watch?v=HbUIB-anUBw
+# --------------------------------------------------------------------------------------------------
+Films / Курьер
+https://www.youtube.com/watch?v=QSc3uk8Q5w4
+# --------------------------------------------------------------------------------------------------
+Lisa Middelhauve - Voice (Demo)
+https://www.youtube.com/watch?v=Pflz8Kuprto
+# --------------------------------------------------------------------------------------------------
+Lisa Middelhauve - Heartache, sweet heartache
+https://www.youtube.com/watch?v=cloJC-iHoow
+# --------------------------------------------------------------------------------------------------
+Lisa Middelhauve - Precious (Feat. Dave Snow)
+https://www.youtube.com/watch?v=zRPoXwHAww0
+# --------------------------------------------------------------------------------------------------
+Guano apes - Open your eyes (Lyrics)
+https://www.youtube.com/watch?v=21N8cQ9TDAs
+# --------------------------------------------------------------------------------------------------
+Guano apes - Rain
+https://www.youtube.com/watch?v=FFZTqrvEpYY
+# --------------------------------------------------------------------------------------------------
+Guano apes - Big in Japan
+https://www.youtube.com/watch?v=Q9jJufz9RNE
+# --------------------------------------------------------------------------------------------------
+Guano apes - Lords of the boards (1998)
+https://www.youtube.com/watch?v=_P3hdBmOqJk
+# --------------------------------------------------------------------------------------------------
+Guano apes - Don't you turn your back on me
+https://www.youtube.com/watch?v=mfe8cdvery0
+# --------------------------------------------------------------------------------------------------
+Guano apes - Living in a lie
+https://www.youtube.com/watch?v=JF-VVARfZMY
+# --------------------------------------------------------------------------------------------------
+Katra - Beast within
+https://www.youtube.com/watch?v=bAfOuwM-Hd4
+# --------------------------------------------------------------------------------------------------
+Katra - One wish away
+https://www.youtube.com/watch?v=ywvP6YlPfbs
+# --------------------------------------------------------------------------------------------------
+Kamelot - The human stain
+https://www.youtube.com/watch?v=vXiJbLkoGr4
+# --------------------------------------------------------------------------------------------------
+Kamelot - March of mephisto
+https://www.youtube.com/watch?v=JBoizPA1qV4
+# --------------------------------------------------------------------------------------------------
+Kamelot - Rule the world
+https://www.youtube.com/watch?v=sk00FKBtEtM
+# --------------------------------------------------------------------------------------------------
+Alestorm - Death throes of the terrorsquid
+https://www.youtube.com/watch?v=YNoRMK7fiyk
+# --------------------------------------------------------------------------------------------------
+Final darkness - Ghost
+https://www.youtube.com/watch?v=tAkaA8hfEEU
+# --------------------------------------------------------------------------------------------------
+Alestorm - Shipwrecked
+https://www.youtube.com/watch?v=Is_Rwx1bYq4
+# --------------------------------------------------------------------------------------------------
+Edguy - Ministry of saints
+https://www.youtube.com/watch?v=2X7krRWDLoc
+# --------------------------------------------------------------------------------------------------
+Other / Сталин и Берия - Расстрелять!
+https://www.youtube.com/watch?v=OLQPo6OUq2Q
+# --------------------------------------------------------------------------------------------------
+Avril Lavigne - Goodbye
+https://www.youtube.com/watch?v=x8zHfqgx0h0
+# --------------------------------------------------------------------------------------------------
+Avril Lavigne - Nobody's home
+https://www.youtube.com/watch?v=NGFSNE18Ywc
+# --------------------------------------------------------------------------------------------------
+Too Much Horror Business: The Kirk Hammett Collection
+https://www.youtube.com/watch?v=_gMUtYWo6Tg
+# --------------------------------------------------------------------------------------------------
+Within temptation - The howling
+https://www.youtube.com/watch?v=aa5BUDKgzRQ
+# --------------------------------------------------------------------------------------------------
+Within temptation - The howling (Game trailer)
+https://www.youtube.com/watch?v=dQq-Hzd6eG8
+# --------------------------------------------------------------------------------------------------
+Sirenia - The path to decay
+https://www.youtube.com/watch?v=e3z-3UCIapE
+# --------------------------------------------------------------------------------------------------
+Amberian dawn - My only star
+https://www.youtube.com/watch?v=rakMEz7FUVo
+# --------------------------------------------------------------------------------------------------
+Amberian dawn - River of tuoni
+https://www.youtube.com/watch?v=DuI3Fc4wsv8
+# --------------------------------------------------------------------------------------------------
+Medeia - In motionless decay - Antichristmas 2
+https://www.youtube.com/watch?v=98klgSsVm-I
+# --------------------------------------------------------------------------------------------------
+Medeia - Antichristmas 1
+https://www.youtube.com/watch?v=IrjwS-0EX90
+# --------------------------------------------------------------------------------------------------
+Michael Monroe - Trick of the wrist
+https://www.youtube.com/watch?v=osAmxyyxfvc
+# --------------------------------------------------------------------------------------------------
+Brymir - Retribution
+https://www.youtube.com/watch?v=BTo-C2rMCzM
+# --------------------------------------------------------------------------------------------------
+Michael Monroe - '78
+https://www.youtube.com/watch?v=b0R68LBeQ3U
+# --------------------------------------------------------------------------------------------------
+Brother firetribe - Heart full of fire (Live at Apollo)
+https://www.youtube.com/watch?v=fDUH7S8vtjQ
+# --------------------------------------------------------------------------------------------------
+Dragonforce - Seasons
+https://www.youtube.com/watch?v=qVxeLyPUnIo
+# --------------------------------------------------------------------------------------------------
+Dragonforce - Operation ground and pound
+https://www.youtube.com/watch?v=6hMQVXCd_xk
+# --------------------------------------------------------------------------------------------------
+Dragonforce - Heroes of our time
+https://www.youtube.com/watch?v=lRt54xjIq7w
+# --------------------------------------------------------------------------------------------------
+Inferno - Stay with me (Official video 2003 re-make 2010)
+https://www.youtube.com/watch?v=sERGiaDYHNU
+# --------------------------------------------------------------------------------------------------
+Orphanage - The sign
+https://www.youtube.com/watch?v=FeHVnhXF3n8
+# --------------------------------------------------------------------------------------------------
+Delain - Frozen
+https://www.youtube.com/watch?v=e2WBfNIRM-0
+# --------------------------------------------------------------------------------------------------
+Winter haze - Unme
+https://www.youtube.com/watch?v=h6zAfZFjVGQ
+# --------------------------------------------------------------------------------------------------
+November-7 - Parasite
+https://www.youtube.com/watch?v=moE6kc-PrKM
+# --------------------------------------------------------------------------------------------------
+Ravenscry - This funny dangerous game (Lyrics)
+https://www.youtube.com/watch?v=Qq_H_PrmRag
+# --------------------------------------------------------------------------------------------------
+Ravenscry - Nobody
+https://www.youtube.com/watch?v=GyWHXzyKwiM
+# --------------------------------------------------------------------------------------------------
+November-7 - Her name
+https://www.youtube.com/watch?v=RxxpVFRB1LM
+# --------------------------------------------------------------------------------------------------
+November-7 - In my mind
+https://www.youtube.com/watch?v=zdUKQ41YQVk
+# --------------------------------------------------------------------------------------------------
+November-7 - Angel
+https://www.youtube.com/watch?v=iuXRH767JAY
+# --------------------------------------------------------------------------------------------------
+Skinbound - Crucible
+https://www.youtube.com/watch?v=RFhq08db18I
+# --------------------------------------------------------------------------------------------------
+Evanescence - My heart is broken
+https://www.youtube.com/watch?v=f1QGnq9jUU0
+# --------------------------------------------------------------------------------------------------
+Evanescence - The other side (Lyrics)
+https://www.youtube.com/watch?v=HiIvtRg7-Lc
+# --------------------------------------------------------------------------------------------------
+Evanescence - Call me when you're sober
+https://www.youtube.com/watch?v=and8G0RfHHk
+# --------------------------------------------------------------------------------------------------
+Evanescence - My immortal
+https://www.youtube.com/watch?v=5anLPw0Efmo
+# --------------------------------------------------------------------------------------------------
+Beyond violet - Cybercherry
+https://www.youtube.com/watch?v=RUNqA_azhk4
+# --------------------------------------------------------------------------------------------------
+Nemesis - When gods are calling
+https://www.youtube.com/watch?v=r79qnWkb9zI
+# --------------------------------------------------------------------------------------------------
+Infinity overture - Angels
+https://www.youtube.com/watch?v=RXMhQmpnnCs
+# --------------------------------------------------------------------------------------------------
+Lisa Middelhauve - Killing flowers
+https://www.youtube.com/watch?v=1CfDPzgVQL0
+# --------------------------------------------------------------------------------------------------
+Whyzdom - Cassandra's mirror (Album "Blind ?")
+https://www.youtube.com/watch?v=kGs8rImkPgw
+# --------------------------------------------------------------------------------------------------
+Eclipse - Wake me up
+https://www.youtube.com/watch?v=BOr_fMznk6E
+# --------------------------------------------------------------------------------------------------
+Theatre of tragedy - Cassandra (Live Poland, 1998)
+https://www.youtube.com/watch?v=Kf8CEhkT0D4
+# --------------------------------------------------------------------------------------------------
+Liv Kristine - Fake a smile
+https://www.youtube.com/watch?v=6r188AJQcJk
+# --------------------------------------------------------------------------------------------------
+Blind guardian - A voice in the dark
+https://www.youtube.com/watch?v=icvDbOZOtII
+# --------------------------------------------------------------------------------------------------
+Serj Tankian - Harakiri
+https://www.youtube.com/watch?v=PQtRXqBQETA
+# --------------------------------------------------------------------------------------------------
+Serj Tankian - Sky is over
+https://www.youtube.com/watch?v=KKcyWZmLJ6A
+# --------------------------------------------------------------------------------------------------
+Legion of the damned - Legion of the damned (Live at Wacken, 2006)
+https://www.youtube.com/watch?v=QVBgidyfnGU
+# --------------------------------------------------------------------------------------------------
+Mono inc. - Teach me to love
+https://www.youtube.com/watch?v=eY7bYaLJdds
+# --------------------------------------------------------------------------------------------------
+Opeth - The grand conjuration
+https://www.youtube.com/watch?v=AY5LRReFYus
+# --------------------------------------------------------------------------------------------------
+Games / Sega mega drive / Battletoads and double dragon - Прохождение (Sega rus)
+https://www.youtube.com/watch?v=mM5HnelKzPE
+# --------------------------------------------------------------------------------------------------
+Gene the werewolf - I only wanna rock'n'roll
+https://www.youtube.com/watch?v=FGmj5YxK8OA
+# --------------------------------------------------------------------------------------------------
+Great white - (I've got) something for you
+https://www.youtube.com/watch?v=p7O6-m3Z5wo
+# --------------------------------------------------------------------------------------------------
+Million dollar reload - Bullets in the sky
+https://www.youtube.com/watch?v=5Npj6s8Ns1g
+# --------------------------------------------------------------------------------------------------
+Seventh key - An ocean away
+https://www.youtube.com/watch?v=-ff5mO3JFdI
+# --------------------------------------------------------------------------------------------------
+Seventh key - Pyramid princess
+https://www.youtube.com/watch?v=WZq1yHVWPLA
+# --------------------------------------------------------------------------------------------------
+Seventh key - Love train
+https://www.youtube.com/watch?v=ANGkoCkVazA
+# --------------------------------------------------------------------------------------------------
+Slamer - Not in love
+https://www.youtube.com/watch?v=Rc1XBkYOk0w
+# --------------------------------------------------------------------------------------------------
+Pride of lions - Sound of home
+https://www.youtube.com/watch?v=np7NmZMmkj0
+# --------------------------------------------------------------------------------------------------
+Starship - It's not enough
+https://www.youtube.com/watch?v=DBkCXVA1TK8
+# --------------------------------------------------------------------------------------------------
+Starship - We built this city
+https://www.youtube.com/watch?v=nsdj9NRzqC4
+# --------------------------------------------------------------------------------------------------
+Starship - Nothing's gonna stop us now
+https://www.youtube.com/watch?v=5ezetZpcsmo
+# --------------------------------------------------------------------------------------------------
+Over the edge - Thief
+https://www.youtube.com/watch?v=fawseMklMnY
+# --------------------------------------------------------------------------------------------------
+Mickey Thomas - One world
+https://www.youtube.com/watch?v=KklpB5Qy6dQ
+# --------------------------------------------------------------------------------------------------
+Yngwie Malmsteen - Fugue
+https://www.youtube.com/watch?v=cAq817mTb50
+# --------------------------------------------------------------------------------------------------
+Yngwie Malmsteen - Trilogy suite op.5
+https://www.youtube.com/watch?v=Mp_qugCaaec
+# --------------------------------------------------------------------------------------------------
+Skylark - Dying inside (w Kiara Laetitia)
+https://www.youtube.com/watch?v=-2hpXLfZbn8
+# --------------------------------------------------------------------------------------------------
+Astral fire - Neoclassical metal peru (Demo 2007)
+https://www.youtube.com/watch?v=NnqWWTZwi_Y
+# --------------------------------------------------------------------------------------------------
+Astral dimension - Record &amp; reason melodic metal
+https://www.youtube.com/watch?v=2w_LDSHTGFg
+# --------------------------------------------------------------------------------------------------
+Acropolis - Recording drums for world of chaos (2011 single)
+https://www.youtube.com/watch?v=p2DkrVrMUHg
+# --------------------------------------------------------------------------------------------------
+Kamelot - Sacrimony (Angel of afterlife)
+https://www.youtube.com/watch?v=ORAc_hx33-Q
+# --------------------------------------------------------------------------------------------------
+Diabulus in musica - Report 3-electric guitar recording
+https://www.youtube.com/watch?v=MGLX2LmYCTs
+# --------------------------------------------------------------------------------------------------
+Diabulus in musica - New era (Secret tour)
+https://www.youtube.com/watch?v=4r3pcfAOaKs
+# --------------------------------------------------------------------------------------------------
+Diabulus in musica - Sceneries of hope
+https://www.youtube.com/watch?v=IT3vXfB5Y1o
+# --------------------------------------------------------------------------------------------------
+For selena and sin - Ghost in the family
+https://www.youtube.com/watch?v=BO5PpGmJVqQ
+# --------------------------------------------------------------------------------------------------
+For selena and sin - Broken mirror
+https://www.youtube.com/watch?v=Vn4ZOP5F6zQ
+# --------------------------------------------------------------------------------------------------
+For selena and sin - Rusty rails of yesterday
+https://www.youtube.com/watch?v=h0gPu0_iS3g
+# --------------------------------------------------------------------------------------------------
+For selena and sin - Psycho lover
+https://www.youtube.com/watch?v=yAomk21p0cE
+# --------------------------------------------------------------------------------------------------
+For selena and sin - Million miles away
+https://www.youtube.com/watch?v=QKaouWZ5nc4
+# --------------------------------------------------------------------------------------------------
+Leningrad - Alkogolik
+https://www.youtube.com/watch?v=AfjOScUn1GQ
+# --------------------------------------------------------------------------------------------------
+Closterkeller - Nocarz (Lyrics)
+https://www.youtube.com/watch?v=_bSgGl3NdKE
+# --------------------------------------------------------------------------------------------------
+The birthday massacre - In the dark
+https://www.youtube.com/watch?v=tLOfluH8mgQ
+# --------------------------------------------------------------------------------------------------
+Metallica - Whiskey in the jar
+https://www.youtube.com/watch?v=boanuwUMNNQ
+# --------------------------------------------------------------------------------------------------
+Games / NES Longplay [385] The punisher
+https://www.youtube.com/watch?v=x0dniXPDQAg
+# --------------------------------------------------------------------------------------------------
+Opeth - The lotus eater
+https://www.youtube.com/watch?v=kvVf1C8tGlc
+# --------------------------------------------------------------------------------------------------
+Opeth - The lotus eater (Drum cover by Alex Rudinger featuring Greg Macklin)
+https://www.youtube.com/watch?v=oM53cobIuy0
+# --------------------------------------------------------------------------------------------------
+Serj Tankian - Uneducated democracy
+https://www.youtube.com/watch?v=hsaFPiXlLNg
+# --------------------------------------------------------------------------------------------------
+Games / ZX spectrum / Myth - History in the making
+https://www.youtube.com/watch?v=5pRr9HwN5KE
+# --------------------------------------------------------------------------------------------------
+Обзор игровой приставки Sega mega drive (Sega genesis) фирмы Gopher.
+https://www.youtube.com/watch?v=LQxyp28dVuE
+# --------------------------------------------------------------------------------------------------
+Ebony ark - Thorn of ice
+https://www.youtube.com/watch?v=91LPL-pouyI
+# --------------------------------------------------------------------------------------------------
+Кипелов - Я свободен (Москва 2005)
+https://www.youtube.com/watch?v=9kw8FFbK0co
+# --------------------------------------------------------------------------------------------------
+Nightwish revival - Ever dream
+https://www.youtube.com/watch?v=IVpEc8WacpQ
+# --------------------------------------------------------------------------------------------------
+Other / Ограбление по китайски
+https://www.youtube.com/watch?v=W7iMhmzktNI
+# --------------------------------------------------------------------------------------------------
+Dokken - Prozak nation
+https://www.youtube.com/watch?v=uVC9bjsd6Mw
+# --------------------------------------------------------------------------------------------------
+Dokken - Give me a reason
+https://www.youtube.com/watch?v=wMfiJc_zF_U
+# --------------------------------------------------------------------------------------------------
+Mizantropia - За тобой (I'm after you)
+https://www.youtube.com/watch?v=aSYxLD4ufig
+# --------------------------------------------------------------------------------------------------
+Вася Обломов - УГ (унылое говно)
+https://www.youtube.com/watch?v=8P7tW9-_Fck
+# --------------------------------------------------------------------------------------------------
+Вася Обломов - Начальник
+https://www.youtube.com/watch?v=mwZfDkLERWI
+# --------------------------------------------------------------------------------------------------
+Вася Обломов - Магадан (неофициальная версия)
+https://www.youtube.com/watch?v=ZCg8si-w1v8
+# --------------------------------------------------------------------------------------------------
