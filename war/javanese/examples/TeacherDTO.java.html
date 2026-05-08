@@ -1,0 +1,159 @@
+<html>
+<head>
+<title>TeacherDTO.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: rgb(0,0,0); font-weight: normal; font-style: normal; }
+.s0 { color: rgb(0,0,128); font-weight: bold; }
+.s1 { }
+.s2 { color: rgb(0,128,0); font-weight: bold; }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#C0C0C0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+TeacherDTO.java</FONT>
+</center></TD></TR></TABLE>
+<pre>
+
+<a name="l1"><span class="s0">package </span><span class="s1">educationalcenter.database.dto; 
+<a name="l2"> 
+<a name="l3"></span><span class="s0">import </span><span class="s1">javax.persistence.*; 
+<a name="l4"> 
+<a name="l5">@Entity 
+<a name="l6">@Table(name = </span><span class="s2">&quot;T_Teacher&quot;</span><span class="s1">) 
+<a name="l7"></span><span class="s0">public class </span><span class="s1">TeacherDTO </span><span class="s0">implements </span><span class="s1">Comparable&lt;TeacherDTO&gt; 
+<a name="l8">{ 
+<a name="l9">    </span><span class="s0">private </span><span class="s1">Long teacherId; 
+<a name="l10">    </span><span class="s0">private </span><span class="s1">String teacherLastName; 
+<a name="l11">    </span><span class="s0">private </span><span class="s1">String teacherFirstName; 
+<a name="l12">    </span><span class="s0">private </span><span class="s1">String teacherPatronymic; 
+<a name="l13">    </span><span class="s0">private </span><span class="s1">String teacherExtStr; 
+<a name="l14">    </span><span class="s0">private </span><span class="s1">DepartmentDTO teacherDepartment; 
+<a name="l15"> 
+<a name="l16">    @Id 
+<a name="l17">    @GeneratedValue 
+<a name="l18">    @Column(name = </span><span class="s2">&quot;TeacherId&quot;</span><span class="s1">) 
+<a name="l19">    </span><span class="s0">public </span><span class="s1">Long getTeacherId() 
+<a name="l20">    { 
+<a name="l21">        </span><span class="s0">return </span><span class="s1">teacherId; 
+<a name="l22">    } 
+<a name="l23"> 
+<a name="l24">    </span><span class="s0">public void </span><span class="s1">setTeacherId(Long teacherId) 
+<a name="l25">    { 
+<a name="l26">        </span><span class="s0">this</span><span class="s1">.teacherId = teacherId; 
+<a name="l27">    } 
+<a name="l28"> 
+<a name="l29">    @Column(name = </span><span class="s2">&quot;TeacherLastName&quot;</span><span class="s1">) 
+<a name="l30">    </span><span class="s0">public </span><span class="s1">String getTeacherLastName() 
+<a name="l31">    { 
+<a name="l32">        </span><span class="s0">return </span><span class="s1">teacherLastName; 
+<a name="l33">    } 
+<a name="l34"> 
+<a name="l35">    </span><span class="s0">public void </span><span class="s1">setTeacherLastName(String teacherLastName) 
+<a name="l36">    { 
+<a name="l37">        </span><span class="s0">this</span><span class="s1">.teacherLastName = teacherLastName; 
+<a name="l38">    } 
+<a name="l39"> 
+<a name="l40">    @Column(name = </span><span class="s2">&quot;TeacherFirstName&quot;</span><span class="s1">) 
+<a name="l41">    </span><span class="s0">public </span><span class="s1">String getTeacherFirstName() 
+<a name="l42">    { 
+<a name="l43">        </span><span class="s0">return </span><span class="s1">teacherFirstName; 
+<a name="l44">    } 
+<a name="l45"> 
+<a name="l46">    </span><span class="s0">public void </span><span class="s1">setTeacherFirstName(String teacherFirstName) 
+<a name="l47">    { 
+<a name="l48">        </span><span class="s0">this</span><span class="s1">.teacherFirstName = teacherFirstName; 
+<a name="l49">    } 
+<a name="l50"> 
+<a name="l51">    @Column(name = </span><span class="s2">&quot;TeacherPatronymic&quot;</span><span class="s1">) 
+<a name="l52">    </span><span class="s0">public </span><span class="s1">String getTeacherPatronymic() 
+<a name="l53">    { 
+<a name="l54">        </span><span class="s0">return </span><span class="s1">teacherPatronymic; 
+<a name="l55">    } 
+<a name="l56"> 
+<a name="l57">    </span><span class="s0">public void </span><span class="s1">setTeacherPatronymic(String teacherPatronymic) 
+<a name="l58">    { 
+<a name="l59">        </span><span class="s0">this</span><span class="s1">.teacherPatronymic = teacherPatronymic; 
+<a name="l60">    } 
+<a name="l61"> 
+<a name="l62">    @Column(name = </span><span class="s2">&quot;TeacherExtStr&quot;</span><span class="s1">) 
+<a name="l63">    </span><span class="s0">public </span><span class="s1">String getTeacherExtStr() 
+<a name="l64">    { 
+<a name="l65">        </span><span class="s0">return </span><span class="s1">teacherExtStr; 
+<a name="l66">    } 
+<a name="l67"> 
+<a name="l68">    </span><span class="s0">public void </span><span class="s1">setTeacherExtStr(String teacherExtStr) 
+<a name="l69">    { 
+<a name="l70">        </span><span class="s0">this</span><span class="s1">.teacherExtStr = teacherExtStr; 
+<a name="l71">    } 
+<a name="l72"> 
+<a name="l73">    @ManyToOne 
+<a name="l74">    @JoinColumn(name = </span><span class="s2">&quot;TeacherDepartment&quot;</span><span class="s1">) 
+<a name="l75">    </span><span class="s0">public </span><span class="s1">DepartmentDTO getTeacherDepartment() 
+<a name="l76">    { 
+<a name="l77">        </span><span class="s0">return </span><span class="s1">teacherDepartment; 
+<a name="l78">    } 
+<a name="l79"> 
+<a name="l80">    </span><span class="s0">public void </span><span class="s1">setTeacherDepartment(DepartmentDTO teacherDepartment) 
+<a name="l81">    { 
+<a name="l82">        </span><span class="s0">this</span><span class="s1">.teacherDepartment = teacherDepartment; 
+<a name="l83">    } 
+<a name="l84"> 
+<a name="l85">    @Override 
+<a name="l86">    </span><span class="s0">public </span><span class="s1">String toString() 
+<a name="l87">    { 
+<a name="l88">        StringBuffer buffer = </span><span class="s0">new </span><span class="s1">StringBuffer(); 
+<a name="l89"> 
+<a name="l90">        buffer.append(</span><span class="s2">&quot;TeacherDTO&quot;</span><span class="s1">); 
+<a name="l91">        buffer.append(</span><span class="s2">&quot;(&quot;</span><span class="s1">); 
+<a name="l92">        buffer.append(</span><span class="s2">&quot;teacherId = &quot;</span><span class="s1">).append(teacherId); 
+<a name="l93">        buffer.append(</span><span class="s2">&quot;; &quot;</span><span class="s1">); 
+<a name="l94">        buffer.append(</span><span class="s2">&quot;teacherLastName = &quot;</span><span class="s1">).append(teacherLastName); 
+<a name="l95">        buffer.append(</span><span class="s2">&quot;; &quot;</span><span class="s1">); 
+<a name="l96">        buffer.append(</span><span class="s2">&quot;teacherFirstName = &quot;</span><span class="s1">).append(teacherFirstName); 
+<a name="l97">        buffer.append(</span><span class="s2">&quot;; &quot;</span><span class="s1">); 
+<a name="l98">        buffer.append(</span><span class="s2">&quot;teacherPatronymic = &quot;</span><span class="s1">).append(teacherPatronymic); 
+<a name="l99">        buffer.append(</span><span class="s2">&quot;; &quot;</span><span class="s1">); 
+<a name="l100">        buffer.append(</span><span class="s2">&quot;teacherExtStr = &quot;</span><span class="s1">).append(teacherExtStr); 
+<a name="l101">        buffer.append(</span><span class="s2">&quot;; &quot;</span><span class="s1">); 
+<a name="l102">        buffer.append(</span><span class="s2">&quot;teacherDepartment = &quot;</span><span class="s1">).append(teacherDepartment); 
+<a name="l103">        buffer.append(</span><span class="s2">&quot;)&quot;</span><span class="s1">); 
+<a name="l104"> 
+<a name="l105">        </span><span class="s0">return </span><span class="s1">buffer.toString(); 
+<a name="l106">    } 
+<a name="l107"> 
+<a name="l108">    </span><span class="s0">public void </span><span class="s1">trimAll() 
+<a name="l109">    { 
+<a name="l110">        </span><span class="s0">if </span><span class="s1">(teacherLastName != </span><span class="s0">null</span><span class="s1">) teacherLastName = teacherLastName.trim(); 
+<a name="l111">        </span><span class="s0">if </span><span class="s1">(teacherFirstName != </span><span class="s0">null</span><span class="s1">) teacherFirstName = teacherFirstName.trim(); 
+<a name="l112">        </span><span class="s0">if </span><span class="s1">(teacherPatronymic != </span><span class="s0">null</span><span class="s1">) teacherPatronymic = teacherPatronymic.trim(); 
+<a name="l113">        </span><span class="s0">if </span><span class="s1">(teacherExtStr != </span><span class="s0">null</span><span class="s1">) teacherExtStr = teacherExtStr.trim(); 
+<a name="l114">    } 
+<a name="l115"> 
+<a name="l116">    </span><span class="s0">public int </span><span class="s1">compareTo(TeacherDTO dto) 
+<a name="l117">    { 
+<a name="l118">        String name1 = </span><span class="s0">this</span><span class="s1">.getTeacherLastName(); 
+<a name="l119">        String name2 = dto.getTeacherLastName(); 
+<a name="l120">        </span><span class="s0">return </span><span class="s1">name1.compareToIgnoreCase(name2); 
+<a name="l121">    } 
+<a name="l122"> 
+<a name="l123">    @Override 
+<a name="l124">    </span><span class="s0">public </span><span class="s1">TeacherDTO clone() 
+<a name="l125">    { 
+<a name="l126">        TeacherDTO dto = </span><span class="s0">new </span><span class="s1">TeacherDTO(); 
+<a name="l127"> 
+<a name="l128">        dto.setTeacherId(teacherId); 
+<a name="l129">        dto.setTeacherLastName(teacherLastName); 
+<a name="l130">        dto.setTeacherFirstName(teacherFirstName); 
+<a name="l131">        dto.setTeacherPatronymic(teacherPatronymic); 
+<a name="l132">        dto.setTeacherExtStr(teacherExtStr); 
+<a name="l133">        dto.setTeacherDepartment(teacherDepartment); 
+<a name="l134"> 
+<a name="l135">        </span><span class="s0">return </span><span class="s1">dto; 
+<a name="l136">    } 
+<a name="l137">} 
+<a name="l138"></span></pre>
+</body>
+</html>

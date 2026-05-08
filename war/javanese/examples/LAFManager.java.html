@@ -1,0 +1,146 @@
+<html>
+<head>
+<title>LAFManager.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: rgb(0,0,0); font-weight: normal; font-style: normal; }
+.s0 { color: rgb(0,0,128); font-weight: bold; }
+.s1 { }
+.s2 { color: rgb(0,128,0); font-weight: bold; }
+.s3 { color: rgb(128,128,128); font-style: italic; }
+.s4 { color: rgb(0,0,255); }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#C0C0C0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+LAFManager.java</FONT>
+</center></TD></TR></TABLE>
+<pre>
+
+<a name="l1"><span class="s0">package </span><span class="s1">yourprojectpackage.gui; 
+<a name="l2"> 
+<a name="l3"></span><span class="s0">import </span><span class="s1">yourprojectpackage.resources.PropertyManager; 
+<a name="l4"> 
+<a name="l5"></span><span class="s0">import </span><span class="s1">javax.swing.*; 
+<a name="l6"></span><span class="s0">import </span><span class="s1">java.awt.*; 
+<a name="l7"></span><span class="s0">import </span><span class="s1">java.awt.event.ActionEvent; 
+<a name="l8"></span><span class="s0">import </span><span class="s1">java.awt.event.ActionListener; 
+<a name="l9"></span><span class="s0">import </span><span class="s1">java.util.HashMap; 
+<a name="l10"></span><span class="s0">import </span><span class="s1">java.util.Properties; 
+<a name="l11"></span><span class="s0">import </span><span class="s1">java.util.Vector; 
+<a name="l12"> 
+<a name="l13"></span><span class="s0">public class </span><span class="s1">LAFManager 
+<a name="l14">{ 
+<a name="l15">    </span><span class="s0">private static </span><span class="s1">JMenu menu; 
+<a name="l16">    </span><span class="s0">private static </span><span class="s1">HashMap&lt;String, String&gt; lafNameAndClassName = </span><span class="s0">new </span><span class="s1">HashMap&lt;String, String&gt;(); 
+<a name="l17"> 
+<a name="l18">    </span><span class="s0">private static </span><span class="s1">Vector&lt;Component&gt; listeners = </span><span class="s0">new </span><span class="s1">Vector&lt;Component&gt;(); 
+<a name="l19"> 
+<a name="l20">    </span><span class="s0">public static void </span><span class="s1">addUIListener(Component listener) 
+<a name="l21">    { 
+<a name="l22">        listeners.add(listener); 
+<a name="l23">    } 
+<a name="l24"> 
+<a name="l25">    </span><span class="s0">public static void </span><span class="s1">removeUIListener(Component listener) 
+<a name="l26">    { 
+<a name="l27">        listeners.remove(listener); 
+<a name="l28">    } 
+<a name="l29"> 
+<a name="l30">    </span><span class="s0">public static </span><span class="s1">JMenu getLAFMenu() 
+<a name="l31">    { 
+<a name="l32">        </span><span class="s0">if </span><span class="s1">(menu == </span><span class="s0">null</span><span class="s1">) 
+<a name="l33">        { 
+<a name="l34">            menu = </span><span class="s0">new </span><span class="s1">JMenu(</span><span class="s2">&quot;Look And Feel&quot;</span><span class="s1">); 
+<a name="l35"> 
+<a name="l36">            </span><span class="s3">// Get standard LAF list</span><span class="s1"> 
+<a name="l37">            UIManager.LookAndFeelInfo[] lafs = UIManager.getInstalledLookAndFeels(); 
+<a name="l38"> 
+<a name="l39">            </span><span class="s3">// Standard LAFs</span><span class="s1"> 
+<a name="l40">            </span><span class="s0">for </span><span class="s1">(UIManager.LookAndFeelInfo laf : lafs) 
+<a name="l41">            { 
+<a name="l42">                menu.add(getLAFMenuItem(laf.getName(), laf.getClassName())); 
+<a name="l43">            } 
+<a name="l44">            menu.addSeparator(); 
+<a name="l45"> 
+<a name="l46">            </span><span class="s3">// Extended LAFs</span><span class="s1"> 
+<a name="l47">            menu.add(getLAFMenuItem(</span><span class="s2">&quot;3D LAF v2.7&quot;</span><span class="s1">, </span><span class="s2">&quot;swing.addon.plaf.threeD.ThreeDLookAndFeel&quot;</span><span class="s1">)); 
+<a name="l48">            menu.add(getLAFMenuItem(</span><span class="s2">&quot;GTK+ v0.1&quot;</span><span class="s1">, </span><span class="s2">&quot;org.gtk.java.swing.plaf.gtk.GtkLookAndFeel&quot;</span><span class="s1">)); 
+<a name="l49">            menu.add(getLAFMenuItem(</span><span class="s2">&quot;InfoNode LAF v1.5.0&quot;</span><span class="s1">, </span><span class="s2">&quot;net.infonode.gui.laf.InfoNodeLookAndFeel&quot;</span><span class="s1">)); 
+<a name="l50">            menu.add(getLAFMenuItem(</span><span class="s2">&quot;Liquid LAF v2.9.1&quot;</span><span class="s1">, </span><span class="s2">&quot;com.birosoft.liquid.LiquidLookAndFeel&quot;</span><span class="s1">)); 
+<a name="l51">            menu.add(getLAFMenuItem(</span><span class="s2">&quot;Next LAF v0.1&quot;</span><span class="s1">, </span><span class="s2">&quot;nextlf.plaf.NextLookAndFeel&quot;</span><span class="s1">)); 
+<a name="l52">            menu.add(getLAFMenuItem(</span><span class="s2">&quot;Office LAFs v2.7 - Office XP&quot;</span><span class="s1">, </span><span class="s2">&quot;org.fife.plaf.OfficeXP.OfficeXPLookAndFeel&quot;</span><span class="s1">)); 
+<a name="l53">            menu.add(getLAFMenuItem(</span><span class="s2">&quot;Office LAFs v2.7 - Office 2003&quot;</span><span class="s1">, </span><span class="s2">&quot;org.fife.plaf.Office2003.Office2003LookAndFeel&quot;</span><span class="s1">)); 
+<a name="l54">            menu.add(getLAFMenuItem(</span><span class="s2">&quot;Office LAFs v2.7 - Visual Studio 2005&quot;</span><span class="s1">, </span><span class="s2">&quot;org.fife.plaf.VisualStudio2005.VisualStudio2005LookAndFeel&quot;</span><span class="s1">)); 
+<a name="l55">            menu.add(getLAFMenuItem(</span><span class="s2">&quot;Oyoaha LAF v3.0&quot;</span><span class="s1">, </span><span class="s2">&quot;com.oyoaha.swing.plaf.oyoaha.OyoahaLookAndFeel&quot;</span><span class="s1">)); 
+<a name="l56">            menu.add(getLAFMenuItem(</span><span class="s2">&quot;Substance v3.3.01 Release Japan&quot;</span><span class="s1">, </span><span class="s2">&quot;org.jvnet.substance.SubstanceLookAndFeel&quot;</span><span class="s1">)); 
+<a name="l57">        } 
+<a name="l58"> 
+<a name="l59">        </span><span class="s0">return </span><span class="s1">menu; 
+<a name="l60">    } 
+<a name="l61"> 
+<a name="l62">    </span><span class="s0">private static </span><span class="s1">JMenuItem getLAFMenuItem(String name, </span><span class="s0">final </span><span class="s1">String className) 
+<a name="l63">    { 
+<a name="l64">        lafNameAndClassName.put(name, className); 
+<a name="l65"> 
+<a name="l66">        JMenuItem item = </span><span class="s0">new </span><span class="s1">JCheckBoxMenuItem(name); 
+<a name="l67">        item.setSelected(className.equals(UIManager.getCrossPlatformLookAndFeelClassName())); 
+<a name="l68">        item.addActionListener(</span><span class="s0">new </span><span class="s1">ActionListener() 
+<a name="l69">        { 
+<a name="l70">            </span><span class="s0">public void </span><span class="s1">actionPerformed(ActionEvent event) 
+<a name="l71">            { 
+<a name="l72">                applyLAF(className); 
+<a name="l73">            } 
+<a name="l74">        }); 
+<a name="l75"> 
+<a name="l76">        </span><span class="s0">return </span><span class="s1">item; 
+<a name="l77">    } 
+<a name="l78"> 
+<a name="l79">    </span><span class="s0">private static void </span><span class="s1">updateCheckBoxes() 
+<a name="l80">    { 
+<a name="l81">        </span><span class="s0">for </span><span class="s1">(</span><span class="s0">int </span><span class="s1">i = </span><span class="s4">0</span><span class="s1">; i &lt; menu.getItemCount(); i++) 
+<a name="l82">        { 
+<a name="l83">            JMenuItem item = menu.getItem(i); 
+<a name="l84">            </span><span class="s0">if </span><span class="s1">(item == </span><span class="s0">null</span><span class="s1">) 
+<a name="l85">            { 
+<a name="l86">                </span><span class="s0">continue</span><span class="s1">; </span><span class="s3">// Menu separator</span><span class="s1"> 
+<a name="l87">            } 
+<a name="l88">            String className = lafNameAndClassName.get(item.getText()); 
+<a name="l89">            Properties props = MainFrame.getInstance().getProperties(); 
+<a name="l90">            item.setSelected(props.getProperty(PropertyManager.PROP_CURRENT_LOOK_AND_FEEL).equals(className)); 
+<a name="l91">        } 
+<a name="l92">    } 
+<a name="l93"> 
+<a name="l94">    </span><span class="s0">public static void </span><span class="s1">applyLAF(String className) 
+<a name="l95">    { 
+<a name="l96">        </span><span class="s0">try</span><span class="s1"> 
+<a name="l97">        { 
+<a name="l98">            </span><span class="s3">// Set new LAF</span><span class="s1"> 
+<a name="l99">            UIManager.setLookAndFeel(className); 
+<a name="l100"> 
+<a name="l101">            </span><span class="s3">// Updating the components</span><span class="s1"> 
+<a name="l102">            </span><span class="s0">for </span><span class="s1">(Component listener : listeners) 
+<a name="l103">            { 
+<a name="l104">                SwingUtilities.updateComponentTreeUI(listener); 
+<a name="l105">            } 
+<a name="l106"> 
+<a name="l107">            </span><span class="s3">// Remember properties</span><span class="s1"> 
+<a name="l108">            Properties props = MainFrame.getInstance().getProperties(); 
+<a name="l109">            props.setProperty(PropertyManager.PROP_CURRENT_LOOK_AND_FEEL, className); 
+<a name="l110">            updateCheckBoxes(); 
+<a name="l111">        } 
+<a name="l112">        </span><span class="s0">catch </span><span class="s1">(Exception e) 
+<a name="l113">        { 
+<a name="l114">            e.printStackTrace(); 
+<a name="l115">        } 
+<a name="l116">    } 
+<a name="l117"> 
+<a name="l118">    </span><span class="s0">public static boolean </span><span class="s1">isLAFAvailable(String className) 
+<a name="l119">    { 
+<a name="l120">        </span><span class="s0">return </span><span class="s1">lafNameAndClassName.values().contains(className); 
+<a name="l121">    } 
+<a name="l122">} 
+<a name="l123"></span></pre>
+</body>
+</html>

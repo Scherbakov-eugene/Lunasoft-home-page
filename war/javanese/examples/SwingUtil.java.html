@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>SwingUtil.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: rgb(0,0,0); font-weight: normal; font-style: normal; }
+.s0 { color: rgb(0,0,128); font-weight: bold; }
+.s1 { }
+.s2 { color: rgb(0,0,255); }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#C0C0C0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+SwingUtil.java</FONT>
+</center></TD></TR></TABLE>
+<pre>
+
+<a name="l1"><span class="s0">package </span><span class="s1">yourprojectpackage.util; 
+<a name="l2"> 
+<a name="l3"></span><span class="s0">import </span><span class="s1">java.awt.*; 
+<a name="l4"> 
+<a name="l5"></span><span class="s0">public class </span><span class="s1">SwingUtil 
+<a name="l6">{ 
+<a name="l7">    </span><span class="s0">public static void </span><span class="s1">setDoubleWidth(Window window) 
+<a name="l8">    { 
+<a name="l9">        Dimension size = window.getSize(); 
+<a name="l10">        window.setSize(</span><span class="s2">2 </span><span class="s1">* size.width, size.height); 
+<a name="l11">    } 
+<a name="l12"> 
+<a name="l13">    </span><span class="s0">public static void </span><span class="s1">setCentered(Window window) 
+<a name="l14">    { 
+<a name="l15">        Dimension scr = window.getToolkit().getScreenSize(); 
+<a name="l16">        Dimension wnd = window.getSize(); 
+<a name="l17">        </span><span class="s0">int </span><span class="s1">x = (scr.width - wnd.width) / </span><span class="s2">2</span><span class="s1">; 
+<a name="l18">        </span><span class="s0">int </span><span class="s1">y = (scr.height - wnd.height) / </span><span class="s2">2</span><span class="s1">; 
+<a name="l19">        window.setLocation(x, y); 
+<a name="l20">    } 
+<a name="l21">} 
+<a name="l22"></span></pre>
+</body>
+</html>

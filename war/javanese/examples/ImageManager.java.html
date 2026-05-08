@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>ImageManager.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: rgb(0,0,0); font-weight: normal; font-style: normal; }
+.s0 { color: rgb(0,0,128); font-weight: bold; }
+.s1 { }
+.s2 { color: rgb(0,128,0); font-weight: bold; }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#C0C0C0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+ImageManager.java</FONT>
+</center></TD></TR></TABLE>
+<pre>
+
+<a name="l1"><span class="s0">package </span><span class="s1">yourprojectpackage.resources; 
+<a name="l2"> 
+<a name="l3"></span><span class="s0">import </span><span class="s1">javax.imageio.ImageIO; 
+<a name="l4"></span><span class="s0">import </span><span class="s1">javax.swing.*; 
+<a name="l5"></span><span class="s0">import </span><span class="s1">java.awt.image.BufferedImage; 
+<a name="l6"></span><span class="s0">import </span><span class="s1">java.io.IOException; 
+<a name="l7"> 
+<a name="l8"></span><span class="s0">public class </span><span class="s1">ImageManager 
+<a name="l9">{ 
+<a name="l10">    </span><span class="s0">private static final </span><span class="s1">String imagePath = </span><span class="s2">&quot;/yourprojectpackage/resources/images/&quot;</span><span class="s1">; 
+<a name="l11"> 
+<a name="l12">    </span><span class="s0">public static </span><span class="s1">BufferedImage readImage(String fileName) 
+<a name="l13">    { 
+<a name="l14">        BufferedImage img; 
+<a name="l15">        java.net.URL imageURL = ImageManager.</span><span class="s0">class</span><span class="s1">.getResource(imagePath + fileName); 
+<a name="l16"> 
+<a name="l17">        </span><span class="s0">if </span><span class="s1">(imageURL != </span><span class="s0">null</span><span class="s1">) 
+<a name="l18">        { 
+<a name="l19">            </span><span class="s0">try</span><span class="s1"> 
+<a name="l20">            { 
+<a name="l21">                img = ImageIO.read(imageURL); 
+<a name="l22">            } 
+<a name="l23">            </span><span class="s0">catch </span><span class="s1">(IOException e) 
+<a name="l24">            { 
+<a name="l25">                e.printStackTrace(); 
+<a name="l26">                img = </span><span class="s0">null</span><span class="s1">; 
+<a name="l27">            } 
+<a name="l28">        } 
+<a name="l29">        </span><span class="s0">else</span><span class="s1"> 
+<a name="l30">        { 
+<a name="l31">            img = </span><span class="s0">null</span><span class="s1">; 
+<a name="l32">        } 
+<a name="l33">        </span><span class="s0">return </span><span class="s1">img; 
+<a name="l34">    } 
+<a name="l35"> 
+<a name="l36">    </span><span class="s0">public static </span><span class="s1">ImageIcon readImageIcon(String fileName) 
+<a name="l37">    { 
+<a name="l38">        </span><span class="s0">return new </span><span class="s1">ImageIcon(readImage(fileName)); 
+<a name="l39">    } 
+<a name="l40">} 
+<a name="l41"></span></pre>
+</body>
+</html>

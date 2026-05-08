@@ -1,0 +1,127 @@
+<html>
+<head>
+<title>DepartmentDTO.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: rgb(0,0,0); font-weight: normal; font-style: normal; }
+.s0 { color: rgb(0,0,128); font-weight: bold; }
+.s1 { }
+.s2 { color: rgb(0,128,0); font-weight: bold; }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#C0C0C0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+DepartmentDTO.java</FONT>
+</center></TD></TR></TABLE>
+<pre>
+
+<a name="l1"><span class="s0">package </span><span class="s1">educationalcenter.database.dto; 
+<a name="l2"> 
+<a name="l3"></span><span class="s0">import </span><span class="s1">javax.persistence.*; 
+<a name="l4"> 
+<a name="l5">@Entity 
+<a name="l6">@Table(name = </span><span class="s2">&quot;T_Department&quot;</span><span class="s1">) 
+<a name="l7"></span><span class="s0">public class </span><span class="s1">DepartmentDTO </span><span class="s0">implements </span><span class="s1">Comparable&lt;DepartmentDTO&gt; 
+<a name="l8">{ 
+<a name="l9">    </span><span class="s0">private </span><span class="s1">Long departmentId; 
+<a name="l10">    </span><span class="s0">private </span><span class="s1">String departmentCode; 
+<a name="l11">    </span><span class="s0">private </span><span class="s1">String departmentShortName; 
+<a name="l12">    </span><span class="s0">private </span><span class="s1">String departmentFullName; 
+<a name="l13"> 
+<a name="l14">    @Id 
+<a name="l15">    @GeneratedValue 
+<a name="l16">    @Column(name = </span><span class="s2">&quot;DepartmentId&quot;</span><span class="s1">) 
+<a name="l17">    </span><span class="s0">public </span><span class="s1">Long getDepartmentId() 
+<a name="l18">    { 
+<a name="l19">        </span><span class="s0">return </span><span class="s1">departmentId; 
+<a name="l20">    } 
+<a name="l21"> 
+<a name="l22">    </span><span class="s0">public void </span><span class="s1">setDepartmentId(Long departmentId) 
+<a name="l23">    { 
+<a name="l24">        </span><span class="s0">this</span><span class="s1">.departmentId = departmentId; 
+<a name="l25">    } 
+<a name="l26"> 
+<a name="l27">    @Column(name = </span><span class="s2">&quot;DepartmentCode&quot;</span><span class="s1">) 
+<a name="l28">    </span><span class="s0">public </span><span class="s1">String getDepartmentCode() 
+<a name="l29">    { 
+<a name="l30">        </span><span class="s0">return </span><span class="s1">departmentCode; 
+<a name="l31">    } 
+<a name="l32"> 
+<a name="l33">    </span><span class="s0">public void </span><span class="s1">setDepartmentCode(String departmentCode) 
+<a name="l34">    { 
+<a name="l35">        </span><span class="s0">this</span><span class="s1">.departmentCode = departmentCode; 
+<a name="l36">    } 
+<a name="l37"> 
+<a name="l38">    @Column(name = </span><span class="s2">&quot;DepartmentShortName&quot;</span><span class="s1">) 
+<a name="l39">    </span><span class="s0">public </span><span class="s1">String getDepartmentShortName() 
+<a name="l40">    { 
+<a name="l41">        </span><span class="s0">return </span><span class="s1">departmentShortName; 
+<a name="l42">    } 
+<a name="l43"> 
+<a name="l44">    </span><span class="s0">public void </span><span class="s1">setDepartmentShortName(String departmentShortName) 
+<a name="l45">    { 
+<a name="l46">        </span><span class="s0">this</span><span class="s1">.departmentShortName = departmentShortName; 
+<a name="l47">    } 
+<a name="l48"> 
+<a name="l49">    @Column(name = </span><span class="s2">&quot;DepartmentFullName&quot;</span><span class="s1">) 
+<a name="l50">    </span><span class="s0">public </span><span class="s1">String getDepartmentFullName() 
+<a name="l51">    { 
+<a name="l52">        </span><span class="s0">return </span><span class="s1">departmentFullName; 
+<a name="l53">    } 
+<a name="l54"> 
+<a name="l55">    </span><span class="s0">public void </span><span class="s1">setDepartmentFullName(String departmentFullName) 
+<a name="l56">    { 
+<a name="l57">        </span><span class="s0">this</span><span class="s1">.departmentFullName = departmentFullName; 
+<a name="l58">    } 
+<a name="l59"> 
+<a name="l60">    @Override 
+<a name="l61">    </span><span class="s0">public </span><span class="s1">String toString() 
+<a name="l62">    { 
+<a name="l63">        StringBuffer buffer = </span><span class="s0">new </span><span class="s1">StringBuffer(); 
+<a name="l64"> 
+<a name="l65">        buffer.append(</span><span class="s2">&quot;DepartmentDTO&quot;</span><span class="s1">); 
+<a name="l66">        buffer.append(</span><span class="s2">&quot;(&quot;</span><span class="s1">); 
+<a name="l67">        buffer.append(</span><span class="s2">&quot;departmentId = &quot;</span><span class="s1">).append(departmentId); 
+<a name="l68">        buffer.append(</span><span class="s2">&quot;; &quot;</span><span class="s1">); 
+<a name="l69">        buffer.append(</span><span class="s2">&quot;departmentCode = &quot;</span><span class="s1">).append(departmentCode); 
+<a name="l70">        buffer.append(</span><span class="s2">&quot;; &quot;</span><span class="s1">); 
+<a name="l71">        buffer.append(</span><span class="s2">&quot;departmentShortName = &quot;</span><span class="s1">).append(departmentShortName); 
+<a name="l72">        buffer.append(</span><span class="s2">&quot;; &quot;</span><span class="s1">); 
+<a name="l73">        buffer.append(</span><span class="s2">&quot;departmentFullName = &quot;</span><span class="s1">).append(departmentFullName); 
+<a name="l74">        buffer.append(</span><span class="s2">&quot;)&quot;</span><span class="s1">); 
+<a name="l75"> 
+<a name="l76">        </span><span class="s0">return </span><span class="s1">buffer.toString(); 
+<a name="l77">    } 
+<a name="l78"> 
+<a name="l79">    </span><span class="s0">public void </span><span class="s1">trimAll() 
+<a name="l80">    { 
+<a name="l81">        </span><span class="s0">if </span><span class="s1">(departmentCode != </span><span class="s0">null</span><span class="s1">) departmentCode = departmentCode.trim(); 
+<a name="l82">        </span><span class="s0">if </span><span class="s1">(departmentShortName != </span><span class="s0">null</span><span class="s1">) departmentShortName = departmentShortName.trim(); 
+<a name="l83">        </span><span class="s0">if </span><span class="s1">(departmentFullName != </span><span class="s0">null</span><span class="s1">) departmentFullName = departmentFullName.trim(); 
+<a name="l84">    } 
+<a name="l85"> 
+<a name="l86">    </span><span class="s0">public int </span><span class="s1">compareTo(DepartmentDTO dto) 
+<a name="l87">    { 
+<a name="l88">        String name1 = </span><span class="s0">this</span><span class="s1">.getDepartmentCode(); 
+<a name="l89">        String name2 = dto.getDepartmentCode(); 
+<a name="l90">        </span><span class="s0">return </span><span class="s1">name1.compareToIgnoreCase(name2); 
+<a name="l91">    } 
+<a name="l92"> 
+<a name="l93">    @Override 
+<a name="l94">    </span><span class="s0">public </span><span class="s1">DepartmentDTO clone() 
+<a name="l95">    { 
+<a name="l96">        DepartmentDTO dto = </span><span class="s0">new </span><span class="s1">DepartmentDTO(); 
+<a name="l97"> 
+<a name="l98">        dto.setDepartmentId(departmentId); 
+<a name="l99">        dto.setDepartmentCode(departmentCode); 
+<a name="l100">        dto.setDepartmentShortName(departmentShortName); 
+<a name="l101">        dto.setDepartmentFullName(departmentFullName); 
+<a name="l102"> 
+<a name="l103">        </span><span class="s0">return </span><span class="s1">dto; 
+<a name="l104">    } 
+<a name="l105">} 
+<a name="l106"></span></pre>
+</body>
+</html>

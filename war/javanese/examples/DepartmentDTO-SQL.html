@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>DepartmentDTO SQL</title>
+
+<body>
+
+CREATE TABLE [T_Department]
+<br>(
+<br><img src=space.gif width=20 height=1>[DepartmentId] [numeric] (19, 0) IDENTITY (1, 1) NOT NULL ,
+<br><img src=space.gif width=20 height=1>[DepartmentCode]      [varchar] (255)   COLLATE Cyrillic_General_CI_AS NULL ,
+<br><img src=space.gif width=20 height=1>[DepartmentShortName] [varchar] (255)   COLLATE Cyrillic_General_CI_AS NULL ,
+<br><img src=space.gif width=20 height=1>[DepartmentFullName]  [varchar] (255)   COLLATE Cyrillic_General_CI_AS NULL ,
+<br><img src=space.gif width=20 height=1>PRIMARY KEY  CLUSTERED 
+<br><img src=space.gif width=20 height=1>(
+<br><img src=space.gif width=20 height=1><img src=space.gif width=20 height=1>[DepartmentId]
+<br><img src=space.gif width=20 height=1>) ON [PRIMARY] 
+<br>) ON [PRIMARY]
+<br>GO
+
+</body>
+</html>
